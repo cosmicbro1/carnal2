@@ -1,0 +1,2219 @@
+NOTICE CONCERNING COPYRIGHT 
+RESTRICTIONS 
+This document may contain copyrighted materials. These materials have 
+been made available for use in research, teaching, and private study, but 
+may not be used for any commercial purpose. Users may not otherwise 
+copy, reproduce, retransmit, distribute, publish, commercially exploit or 
+otherwise transfer any material. 
+The copyright law of the United States (Title 17, United States Code) 
+governs the making of photocopies or other reproductions of copyrighted 
+material. 
+Under certain conditions specified in the law, libraries and archives are 
+authorized to furnish a photocopy or other reproduction. One of these 
+specific conditions is that the photocopy or reproduction is not to be "used 
+for any purpose other than private study, scholarship, or research." If a 
+user makes a request for, or later uses, a photocopy or reproduction for 
+purposes in excess of "fair use," that user may be liable for copyright 
+infringement.
+ This institution reserves the right to refuse to accept a copying order if, in 
+its judgment, fulfillment of the order would involve violation of copyright 
+law.
+IN
+LlBRARr
+ UNIVEKSITY OF CALIFORNIA
+ DAVIS
+
+
+STATE OF CALIFORNIA
+ GOODWIN I.
+ KNIGHT, Governor
+ DEPARTMENT OF NATURAL RESOURCES
+ DeWITT NELSON, Director
+ DIVISION OF MINES
+ FERRY BUILDING, SAN FRANCISCO 11
+ GORDON B. OAKESHOTT, Chief
+ SAN FRANCISCO
+ BULLETIN 177
+ GEOLOGY AND MINERAL RESOURCES OF
+ SANTA YSABEL QUADRANGLE
+ SAN DIEGO COUNTY, CALIFORNIA
+ Price $1.50
+ LIBRARY
+ UNIVERSITY OF CAI.irORNTA
+ 1958
+ DAVIS
+The Library of Congress has cataloged this publication as
+ follows:
+ California. Division of Mines.
+ Geology and mineral resources of Santa Ysabel quad
+rangle, San Diego County, California. San Francisco, 1958.
+ 39 p. illus., maps (2 fold. col. in pocket) 28 cm. (Its Bulletin
+ 177)
+ Bibliography: p. 39.
+ 1. Geology
+ sources
+ —California
+ —San Diego Co. 2. Mines and mineral re
+—California San Diego Co.
+ TN24.C2A3 no. 177
+ Copy 2.
+ Library of Congress
+ I. Title.
+ 557.9498
+ QE90.S116C3
+ (Series)
+ 59-62552
+CONTENTS
+ Letter of transmittal
+ Page
+ 5
+ Geology of Santa Ysabcl quadrangle, San Diego County, California, by
+ Richard .Mt'rriatii
+ .Alini's anil mineral resources of Santa Ysabel quadrangle, San Diego County,
+ California, by Richard M. Stewart
+ Reports cited in Bidletin 177
+ Index
+ PLATES
+ Plate 1. Geologic nuij) of the Santa Ysabel ijuadrangle
+ lA. Economic map of the Santa Ysabel ((uadrangle
+ 7
+ 21
+ 39
+ 41
+ In ])ocket
+ In pocket
+ (3 J
+
+To His Excellency
+ The Hoxorable Edmund G. Brown
+ Governor of the State of California
+ Sir:
+ I have the honor to transmit herewith Bulletin 177, Geology and mineral
+ resources of Santa Ysabel quadrangle, San Diego Countj', California, prepared
+ for publication 1958 under the direction of Gordon B. Oakeshott, Chief of the
+ Division of Mines, Department of Natural Resources. The descriptive text is
+ accompanied by a colored geologic map and an economic map, both on a topo
+graphic base, a structure map and sections, and numerous photographs. The
+ report represents the work of Richard Merriam of the Department of Geology,
+ University of Southern California, Los Angeles, California. Supplementary to
+ the descriptive geology is a section on the mines and mineral depo.sits prepared
+ by Richard M. Stewart, Mining Geologist with the Division of Mines.
+ The Santa Ysabel quadrangle lies in the north central part of San Diego
+ County. Hydrothermal gold-bearing quartz veins of the Julian district have
+ been the most important mineral resources in the area, but mining activities
+ are limited. The mines here were most active during the period 1870 to 1880
+ and the value of the total estimated production from the district is between
+ $2,500,000 and $3,000,000. Small tungsten deposits have yielded some ore.
+ Niekeliferous pyrrhotite bodies near Julian have been prospected but the proved
+ reserves are small. Marble has been quarried from deposits interbedded in
+ the Julian schist.
+ This report represents the results of basic geologic studies and should be of
+ value in the development of natural resources within the area.
+ Respectfully submitted,
+ DeWITT nelson. Director
+ Department of Natural Resources
+ (5)
+
+MINESANDMINERALRESOURCESOFSANTAYSABELQUADRANGLE
+ SANDIEGO COUNTY, CALIFORNIA
+ I:y liu:HAi:u .M. Stkwakt "
+ OUTLINEOF REPORT The nortlicnuiiost district within the qnadranfrle is
+ ^9^ the Rice or Montezuma district on the southern sh)pes
+ . .7i
+ of the Sail Ysiilro Mountains north of Montezuma Val
+.,| le\-. .liihaii sc-hist, Stonewall (|uartz dionte, and mixed
+ \'i' "-n "-1 rocks
+ —a complex of Julian schist and Stonewall (juartz
+ ' .'
+ _ 2.-,
+ dioite
+ —undei-lie the area; but most of the frold-bearinfr
+ ,„ ' '" .,-(luartz veins are enclosed in themetamorphic rocks. The
+ ... ,, .-,-,
+ veins are di.scordant with the enclo.sin<;' rocks ami have ,.,.,,., .,-, a general strike of X. bo^ F.. and a dip ot /0° NW.
+ I.i^r 1)1 mines iiiid miiK'nil (loposits __
+ —
+ i
+ ., , , • i , . , i Although several properties have been prospected and
+ Illustrations exjilored, oiilv oiichasbeenextensivelydeveloped.Work
+I'iKiire 1. ]>i:i);i;imniatu-skt-teh ..f a iiiiait/. roll striietiirc in iii^s oil this, the Montezuma mine, reached a maximum
+ schist 23 de])th of 2.'i() feet. The amount of production, althoufrli
+ I'll..I'. I. <;i.i(lcn Chariot mine in Chariot Can.von 2:^ Hot detpmiiiied,wasprobably small.Amill oil the prop
+•J. Ij.'uuhito mine in Koilrifjura Can.von flat 2'J c-tywasdestroyed by fire ill 1913.
+ :{. Traoi-of worl<inf;son Read.v Reliefmine in Chariot ^^
+ rp|^p Grapevine district, in GrapevineCanyonsouth of
+ (
+ anvon V"""" "" Moutezuiiia Vallcv, containsonlvonepropertvon which
+ 4. Vern^a marble ,,uarr.v o„ sonth slope of ban sionificaut amount of WOrk has been doiie
+ —the isidro Mountains-4 • '-. . ,r,i-• i i • i-,., I f 11 .-I-1
+ „ "s (irai)eviiie Star mine. The mine area is underlain bv
+ .1.
+ Hloeks of marlile at \ erru(,'a deiiosit-4 '"i
+ ..,,-,. , i. i mixed rocks; it is only a short distance southwest ot the
+ contact between the mixed rocks and Bonsall tonalite. INTRODUCTION Exploration on the principal vein hasbeen shallow, and
+ The o(,],i deposits of the Julian district havebeen the production ]irobal)ly neoli<>ible.
+ most imjiortant mineral resource in the Santa Ysabel .
+ t , ^
+ quadranole. The oreatest amount of fiold was produced "'' •/'''"'" Z^.'-^"'"''-TheJulian distr.c encompasses
+ here durino-the period 1870-80. Marble, chietlv as di-L-hieHy tlio.se mines-rouped within a relatively narrow
+ mension .stone, has been produ<-ed but the deposits have-;>-'P «bout <
+ miles lon^ that extends northwestward
+ lono-been idle *^'''"" ^'"^ '^'•'""t.^' <>f theGolden Chariotmine in Chariot
+ Despite the presence of nickel ore in the Julian dis-t'«",y'"> V-'^' I>«""!^'-«'»' thence curves somewhat more
+ trict. the proved reserves are small and no commercial to the west to a point about a mile northwest ot Julian,
+ production has beenmade. Deposits of lithium minerals }, t^-.^ '">'"'-• 'i.'f "' }\^ Julian district, are sparsely
+ ami of wollastonite are known within the quadranple distnbnte.l outside ot this strip. These include-old de
+but have not been of commercial si^rnificance. An area I'osits that lie eas .
+ southeast, andsouth ofBanner,and
+ in the northeastern part of the .luadranolc is beiiio inckcliteronspyrrhotitedepositssoutheastofJulian.The
+ .•xpl.ircl tor de,,osits of tunosten ore, but other miiiino St.mewall mine south of Cuyamaca Lake in the Cuya
+a.-tivitv is jreneiallv limited to the performance of re-'"!'«' •^'^"!' '""•<• ^^'T''} H-f,'" '. f" ^l""'
+ quired"assessment work. '•'"f->"." '^ ^"•">' ''^ the Santa \sabel quadranole The
+ approximate boundary line or the Julian district was
+ MINERALDEPOSITS defined ill 1881 (Hanks 1886, pp. 83-84) ;
+ the greatest
+ Gold part "fthe district lies within thequadrangle. Themost
+ ,, , . .-.1 .1 o . A-1 1 1
+ i-,-cc)it description of thepeologvofthe mineral dejwsits
+ .\ list 111 the iiiinino-within the S;iiita Vsabel quad-.. .' .
+ ,. . ,-r> n cinQi . •}^)^ •}-<>
+ , ,
+ ^ ,
+ ^ ,. ,, ,-^ . ,,, 1
+ nt the district is that bv Donnellv (1934, pp. 331-.5K), lano ( has centered upon the ooUl deposits. Altlionpli
+ ,
+ ,, i i-.i t n' •
+ r '„„,;„„ • k... a ,,..„.. ,7 , ,
+ ' „ r .. 1
+ pl. 4i; iiiiich ot the lollowino-(liscu.ssion is based upon
+ ccild has been recovered from deposits in several areas
+ j •
+ . . .^
+ within the quadranole. the o-reatcst concentration of "^ lepoi
+ • , , .,
+ I
+ ,
+ 1-..• • • ..u I
+ r tj i;.t„;,+ fii^ Lo( c oi, (
+ (Cpcisits were <
+ iscovere( subsequent to the oold iiiineralizatimi IS 111 the Juliaii-Baniier district, ine ..
+ / i
+ •. i r. i /. i
+ 1
+ 111 u K .. 1
+ «„„,i ..o „i;.,;„„-(qici;itiiin nt placer tleposits alon<r Coleman Creek west several o(,lil.h('ariiio-areas have been denned as iniiiin<;-'. ,
+ , • , • • • i.
+ iir ,
+ rm i; j. i i-, , • , ,
+ T 1 • ti i;» ,. ,,,.. Ti;ii ,1(110 ,1., I't . 11 lan in the viciuitv ot \\vnola. 1
+ he first Julian districts and discussed in the literature. Hill 1
+ IMIJ. pp. ,• • x. '
+ n ' • i t-. i
+ i
+^>l\ TJ1 I-, 1
+ ! 11 ,„;.,;„ , i; t,.; t.-t,.„ot;,.,,. fi,,. ininini; i
+ isirict wastormallv or-ranized on hebrnary ];>. 130. J31 I
+ listed three ooid miiiino' districts, treatiiio' tlic-.in". in.-.,-^o ,
+ ..iV •
+ liaiiner ami Julian areas as .separate .listricts. aminam-^
+ ^'^'-^""1 ^^''-^
+ described (
+ Hanks, h.sb. p. hi
+ )
+ as B.-m
+ino the Bice district as the third. Merrill (191(5. pp. nnig <,ne thousand yards west of Ilarrolds Store and
+ 648-649, 6O3-660) named an.l separatelv discussed the ''•';'""^-""'.-^l' ^.^ •"'•'^ «"< south five miles and four
+ Rice (Montezuma) an.l the (irapevine .listricts. but >'''''''.'''1 '," "i '' /. ^^''^'''\Pf}''l ^ccn-der.
+ ^ 1 .1 r> 1 T 1-r «..; t
+ The first ode claims, t
+ he Cieorjre \\ashmprton and Van treated the Banner and Julian areas as (uie district. ,,; , . i t-, i
+ oo ^o-,^ t » ^ .i
+ T 1 .1 i> 1 T
+ r . ... „ o,. „o 1,
+ ^^ert. werelocatedonFebruarv22. IhfO. Interest in the Inasmuch as the BannerandJulian areas are near each ' '. . . • , ,. , . . . ,
+ ,, , , 1 •» ,1 t , .., *; .,11,. .. ,i..t,..i district waskeen,andwithin bmonthsafterthese initial other and coiitani deposits that are uencticallv related. . , , . , , , t;i i-.i n r * • »
+ ,
+ 11 • 1 1 I 11 1 1
+ isc(i\-eries .)4 <•
+ ;imis hai been filed with the district
+ lliev are o-enerallv considered as one
+ —cdiiimonlv called
+ the Julian district. recorder.
+ ,,, . .
+ ,.
+ ,.
+ In Auo-iist 18/0 a o()|,|.bcanii.o-vein wasiliscovered in
+ 'mnu-!"%rpumTM\on^^^^^^^^^ iV.'li'sT.
+ "' "'"'"'' •'"^'"""'''" "'"' Chariot Canyon (or San F,-lipe Canyon as it
+ was then
+ (21 )
+.
+ I
+ Bull. 177
+ 22
+ California Division of Mines
+ ,;-i<^
+ s;v»
+ .'.>;
+I'TIOTO 1. Goklen Chiiriot mine in Clnu-inl Canyon.
+ known) and named the Redman after one of it.s dis
+coverers. As Redman had marked his claim witli a small
+ American fla^', the name Banner was piveii to the small
+ connuunity nearby.
+ Many other claims were soon located on the slojies of
+ Chariot and Banner Canyons. Two of the more pi'oduc
+tive mines were amonu' the last to be discovered
+ —the
+ Helvetia late in 1870, and the Golden Chariot in Febru
+arv 1871.
+ Tlie period of f>reatest activity in the Julian district
+ was from 1870 to 1880, and the annual gold production
+ reached a peak value of about .fi500.000 in 1874. Many
+ of tlie mines were shut down by 1875. and the famous
+ Golden Chariot had shut down by 1876.
+ In 1888. the discovery of the Gold Kiiip: and Gold
+ Queen mines, about 4 miles soutlieast of Julian, renewed
+ the ho])es of prospectors, and activity was resumed at
+ many mines. In 1895, the Elevada and Rancliito mines
+ Photo 2. Kanchito mine in Rodriguez Can.von fiat. There i.s a five-stamp
+ mill between dumps.
+ *i
+ ^^•'
+ ^"^y^p-'-->,..,
+ '«». .
+ tt^^
+^ .j^*»'vT
+^^i^^^^ite
+ior)8i
+ schist :
+ Santa VsAnr.i. Qt-adranoi.e
+ —Mines and Minkrai. Hesot'rces
+ wore (liscoven'd ; 
+in ISiKi llip Owens mine was rco|iPiu'(l
+ foi- tlic second time.
+ These operations were short lixi-d. and little jrold lias
+ been prodnced from the district durinfr this century.
+ Considerable exi>ioration was undertaken at the (Jolden
+ Chariot mine, stai-tin^: in l^i'I'-i. 
+and aelivily was n-newed
+ at the Ready Heliet' and nearby claims during: the same
+ period. From l!t2:} to VXi'.i the total value of "rold pro
+duced was .slightly less than $4;i,()U(). I'lacer operations
+ accounted for about 10 percent of this total. The value
+ of the total estimated production from the district is
+ between $2.r)()().()()(l and A;i()()0.()(l(l. Virtually all of the
+ recent activity has been in the performance of assess
+ment work, and production has been ne<rligible.
+ The most important soni'ces of p-old in the district are
+ tlio.se deposits contained wholly or partly in the Julian
+ the <leposits in quartz diorite or mixed rocks are
+ fewer in niniiber and. with the exception of the Kanchito
+ mine, much less iiroductive.
+ The L'old-bearing (piartz bodies in the schist have been
+ classitieil b>' Donnelly i 
+l!i:U. j). :{.").j 
+i 
+on the liasis of
+ shape as h'nses. lenticular veins, and rolls.
+ Lenses are abundant but individually quite small.
+ commonly bein<r an inch in width and a few inches in
+ length. Individual lenses are concrirdant with the en
+chasing schist, but they are fretpiently arrang-ed en
+ echelon along both dip and strike of the schist. Such a
+ lens system has a strike and diji differing' by a few
+ degrees from the attitude of the schist. Mo.st of the
+ 2.'j
+ Fii;rRK 1. DiaKrammatic .sketch of a quartz roll structure in
+ sclli^t. Xol to .scale. HnnKinK wall s<!ii<» i>..i <(i"" n \^npif,! t,,,,,,
+ Doiiiirlh/ lO.ii, p. S.'ji;.
+ quartz in the lenses is g'lassy and much of it is higrhly
+ fractured, and shows evidence of strain. Native <roid is
+ grenerally the only ore mineral.
+ Most of the gold has been produced from lenticular
+ veins. The.se normally range in width from a few inches
+ to 5 feet. The maximum length of the veins is not
+ known to the writer, but reports suggest tlial a singde
+ I'lioio 3. Trace of \vorkiiij;.s on Rr.-uly Itf
+lief mini' in ("liaiint C.inyon near Hannrr. Jiiii<l
+ of mill liuihlinK in left fore>;roun(l.
+ vein, exphjred for 800 feet by workings in the North
+ Hubbard mine and for 600 feet by Read.v Relief work
+ino:s. is at least 1400 feet long: (Tucker 1925. p. 347;
+ \'Xi9. pp. 26-27). However, the.se workinsrs may have
+ explored parallel, closely arl.iacent veins of lesser length.
+ .Most veins are iirobably much shorter. The veins com
+monly are composed of bands of quartz separated by
+ thin films or layers of scliist a fraction of an inch in
+ thickness. In general the veins that lie northwest of the
+ Ready Relief mine are en echelon in plan.
+ Associated with the lenticular veins are the quartz
+ bodies with roll structures; these bodies are called
+ "rolls" by Donnelly. In cross section, a t.vpical roll
+ structure shows a tabular body of cpiartz. concordant
+ down dip with the enclosing schist, merging into a
+ short trough which transects the .schist, changing again
+ to a tabular body concordant for a short distance up
+ dip: then conies a .short transecting saddle followed by
+ a tabular body extending farther down dip. A single
+ body may have several such individual rolls down dip.
+ The conformable portions ma.v be thicker at the troughs
+ or .saddles, and the combined thicknesses of several
+ closely ad.jacent limbs may be as great as 20 feet. One
+ roll was followed for a strike distance of 500 feet, but
+ most rolls range in length from 20 to 100 feet. Most roll
+ structures extend down dip only several tens of feet;
+ a few extend more than 100 feet. The axes of most rolls
+ l>lunge to the northwest at a low angle, usually le.ss than
+ 25 degrees. Like the lenticular veins, the bodies forming
+ rolls commonly consist of layers of quartz separated by
+ thin schist seams. Roll structures were probably pro
+duced b.v deposition of quartz in fractures that partl.v
+ follow and partl.v tran.sect the schistosit.v rather than
+ b.v post-mineral folding of tabular fpiartz veins.
+;
+ [Bull. 1'
+ 24
+ California Division of Mines
+ Lenses, leiitieiilar veins, and rolls oeeur near eaeh
+ other throughout the sehist belt in the Julian district.
+ However, a single type may be more completely devel
+oped in certain mines
+ —rolls in the area near Banner
+ from the Warlock to the South Hubbard mines, and
+ lenticular veins in the Golden Chariot, Helvetia, and
+ Owens mines. Rolls are known to have merfjed into len
+ticular veins alonfj the strike. Lenses are present in all
+ mine areas. All three types of {(uartz bodies are believed
+ to have formed at the same time.
+ All types of deposits trend northwestward, ranginjj- in
+ strike from N. 20° W. near the Golden Chariot mine
+ to N. 60° W. near Julian. The dips are generally uortli
+east except where slumping of the schi.st and enclosed
+ veins on steep slopes has resulted in dips to the south
+west.
+ The principal gangue mineral is (piartz, both massive
+ and banded ; 
+the banded quartz is nearly always highly
+ strained. Coarse-grained biotite is associated with much
+ of the quartz. Tourmaline is present in very minor pro
+portions in some veins and probably indicates a high
+temperature origin. The ore minerals consist of free gold
+ and some gold telluride (probably petzite), associated
+ with arsenopyrite, pj-rrhotite, and pyrite; tiic suljihides
+ are auriferous.
+ Records indicate that most ore shoots were discon
+tinuous and small, and that abrupt changes in grade of
+ ore were encountered. Probably the most extensive ore
+ shoot mined was that in the Owens mine where ore was
+ stoped along 400 feet of vein through a vertical range
+ of 800 feet. The principal ore shoot in the Helvetia
+ mine was 100 feet long and had a di]! length of ITH) feet
+ a shoot mined in the Golden Chariot was (i.") feet long
+ and 185 feet in dip length.
+ Stope lengths of 125 and 150 feet are reported in
+ descriptions of the Eagle mine, but no indication of
+ vertical extent i.s 
+given. Two ore shoots, each having a
+ >-'Mm-W
+ '^^k-:^
+PiKVK) 4. VcvniR'n marble qu.irry im ."inuth .slope of San Y.sidro
+ .Mountains. .\lai'l)l(' iji contact with sclii.st in riylit center of pictiu'e.
+ Considering the nature of the ore and the apparent
+ vertical range of deposition (a difference of about 1,800
+ feet in altitude exists between the highest and lowest
+ surface points in the mineralized belt) the deposits are
+ clas.sed as hyi)othermal and are thought to be genetically
+ related to the Stonewall ipiartz tliorite but later in age.
+ maximum dimension of 45 feet, are reported in descrip
+tions of the Redman. The size of most shoots in the
+ district was probabl.y of that order or smaller. Li most
+ of the mines the ore shoots pitch to the northwest.
+ Donnelly has estimated that the average tenor of the
+ ore from the principal mines was $50 per ton (2| ounces
+ of gold per ton), but a wide range of values has been
+ reported. Some material from the Eagle mine yielded
+ as little as $2.75 per ton when milled (Hanks 1886, p.
+ 85). Mining such rock was probably not economic. Other
+ Marble
+ Two of several relatively small lenses of marble, en
+closed in schist roof pendants bounded by Stonewall
+ quartz diorite, Lakeview Mountain tonalite, and mixed
+ rocks, have been i|uarried to provide dimension stone
+ and, more recently, rooting grannies. The white to gray,
+ slightly banded, c(iarsel\' crystalline marble is a nearly
+ pure <Tystallinc limestone. An analysis showed 92 per
+cent calcium carbonate (Tucker 1925, p. 372). Xo con
+tact metaniorphic silicate minerals are apparent.
+ The principal deposit was first prospected in 1900, but
+ was not woi-ked commercially until 1921 when the Ver
+ruga ilarble Company commenced operations ; 
+these con
+tinued until 1!)23 and dimension stone was furnished for
+ several buildings in San Diego. The distance to a rail
+deposits however, contained high-gi'ade ore; 100 tons
+ of ore from the Golden Chariot yielded $32,000 ( 
+Hanks
+ 1886, p. 86 ) , 
+and 920 tons of ore from the Owens yielded
+ more than $42,000 (Hanks 1886, p. 87). Small amounts
+ of ore valued as high as $500 per ton were mined from
+ several properties. However, the relative thiiniess of
+ the deposits and the small size of most ore shoots made
+ profitable mining operations difficult in spite of the
+ grade of the ore. ilost of the mine workings have been
+ relatively shallow ; 
+the 350-foot shaft on the Golden
+ Chariot vein, and the long cross cut adits extending
+ under the Warlock and the Kentuck groups probably
+ reach the deepest points below surface outcrops of any
+ workings in the district. Less free gold and more aurifer
+ous sul]iliides have been encountered in the deeper work
+ings and this trend will probablv continue at greater
+ depth iDoinielly 1934, p. 369).
+ I'HOTO J. Rlocks of marble at Verruga ilepo-sit.
+1!)58]
+ Santa Ysabel (^rADRANOi-E—.Mi.vF.s and .Minkrai. 1Jesoi"k< ks
+ road is a dfterrent to the successful exploitation of these
+ deposits.
+ Nickel
+ Deposits of ni<-keliferous pyrrhotite associated with
+ San Marcos (Cuyamaca) <rabbro occur in a relatively
+ small area 3 to 4 miles southeast of Julian. The.se de
+posits were first explored during the 18Mts. when they
+ were believed to contain economic amoiuits of jrold and
+ copper. Development was slow and the nickeliferous
+ character of the ore was not discovered for .some years.
+ By HllG the principal property, the Friday mine, was
+ beinjr explored for copper and nickel by the Friday Cop
+j>er Mininji Company of San Diciro (Merrill lt)16, pp.
+ 66(5-667). Most of the underfrround workin<.'s were
+ tlriven by tliis company; more recent exploration has
+ consisted larfrely of diamond drillinfr. Other deposits,
+ havinpr similar but smaller fros.san outcrops, have been
+ prospected by shallow pits. Dnrinjr the late inSOs a
+ les.see drilled two diamond drill holes to a depth of
+ about 500 feet on other sros-san outcrops, but neither
+ disclo.sed ore: one hole was a few hundred yai'ds north
+west of the Frida.v shaft and the other was about one
+ mile we.st.
+ The massive sulfide ore body of the Friday deposit
+ was once considered to have formed by syncrenetic majr
+matic concentration (Hud.son 1922. pp. 227-228. 238
+241 '.
+ A more recent study (Crea.sey 1946"i 
+cites evidence
+ supporting a replacement orif^rin. Snlfide-rich. silica
+poor solutions are thou<rht to have replaced the jrabbro
+ alonjr fractures on the north side of a narrow inclusion
+ of Julian schist, the latter apparently actiujr to dam the
+ solutions.
+ ore :
+ Sulfides constitute between 75 and 90 percent of the
+ ofanpne minerals include hornblende. au<rite. chlo
+ride, actinolite (?), and calcite. Pyrrhotite is the most
+ abundant sidfide. and commonly encloses the other sul
+fide minerals : 
+pyritc. chalcopyrite. and the nickel sul
+fides pentlandite and violarite).
+ (txidation of the sulfides has formed a jro.s.san con
+sistiufr principally of iron oxides and mixtures of sul
+fates containing as mnch as 11.75 percent iron. 0.10
+ percent copper. 0.15 percent cobalt, and 1.98 percent
+ nickel (
+ Creasey 1946. p. 26). This oxidized zone ex
+tends trenerally to a depth of 132 feet : 
+L'reatest known
+ depth is 173 feet.
+ The sulfide body of the Friday mine is roughly wedg-e
+shaped in vertical section, strikes about X. 75° E. and
+ dijis steeply north. Commencing at a depth of about
+ 132 feet, which is the preneral lower limit of the "O-ssan.
+ the body tapers from 32 feet in thickness to about 6 feet
+ at the ISO-foot level. The average len<rth of the ore body
+ is 55 feet.
+ The prade and size of the ore body as <riven below
+ (Crea-sey 1946. p. 27). considered tojrether with the
+ relatively remote location of the deposit indicates the
+ difficulty of an economic operation. The ore body prob
+ably has an average content of 2.5 to 3.0 percent nickel.
+ 0.5 to 1.0 percent copper, and as much as 0.15 percent
+ cobalt. As.suminir an average width of 15 feet and
+ length of 55 feet between the back of the 132-foot and
+ the floor of the 180-foot level, the indicated ore amounts
+ to about 5.000 tons. An additional 90 tons of ore per
+ foot of depth may be inferred for a limited distance
+ below the 180-foot level. A vertical diamond drill hole
+ from a short winze (ni the 18()-foot level is supposed
+ to have penetrated additional ore to .50 feet below
+ the level.
+ Tungsten
+ Early in 1II54. an area several miles long on the ridge
+ between (Jrapevine and San Felipe Canyons was being
+ explored for connnercial concentrations of scheelite. The
+ area is underlain by mixed roi-ks
+ —a complex of Julian
+ schist and Stonewall (piartz diorite. Scheelite occurs in
+ tactite developed in lenses of limestone that are a.s.soci
+ated with Jiilian schist. Outcrops of Stonewall (|uartz
+ diorite are ad.jacent to or nearbj' the tactite zones.
+ Xo ore had been shipped by February 19.54. but
+ several tactite bodies were being explored by shallow
+pits, trenches, or open cuts. The jirobable small size
+ of the limestone lenses in the .schist limits the size of
+ po.ssible tungsten ore deposits.
+ Miscellaneous
+ Subcommercial proportions of graphite are present
+ in mnch of the Julian schist. A small pegmatite deposit
+ on the .southwest slope of Oranite Mountain contains
+ enough lepidolite to have encouraged the search for
+ commercial amounts of lithiinn minerals and for gem
+ipiality tourmaline. These have not been foiuid. An unde
+termined amount of stone was (juarried for road metal
+ from an exposure of Stonewall quartz diorite in mixed
+ rocks west of Julian.
+ WoUastonite is present as a raetamorphic mineral in
+ lenses of highly silicated limestone contained in Jidian
+ schist about 5i miles southea.st of Julian. These have
+ been insufficiently explored to prove either the qualitj'
+ or quantity of the material.
+ LIST OF MINES AND MINERAL DEPOSITS IN THE
+ SANTA YSABEL QUADRANGLE
+ The information in the following list was drawn
+ <-hietly from published sources, but also from unpub
+lished sources and from investigations by the author.
+ The.se data were revised and supplemented by F. Harold
+ Weber Jr.. California Division of ilines. in the course
+ of field work during 1957. for a forthcoming report on
+ the mines and mineral resources of San Diego Comity.
+ The information is believed to be authentic, but com
+monly was not verified.
+ The list has been limited for the most part to those
+ properties which have been previously mentioned in
+ the literature and on which some significant work has
+ been done, either in recent years or during the more
+ active periods of mining.
+ The properties are arranged in alphabetical order
+ under each commodity. The number in the first column
+ is the ninnber given the property if located upon the
+ accompanying economic map. The preferred or most
+ recent name of the property is given first and synonv-ms
+ or former names are in parentheses. Names of claims
+ within a group are also in parentheses. Jlost names are
+ completely cro.ss-referenced. Ownership, unless dated,
+ was that at the time of writinsr.
+ References in the last column are listed in the accom
+panying bibliography. Only the last name of the senior
+ author is given, followed by the year of his first listed
+ publication. The page references then follow a colon.
+ Succeediu!.' references are jireceded by semicolons.
+26
+ California Division of Mines
+ GOLD
+ [Bull. 177
+27
+ .
+ 1958]
+ Map
+ No.
+ Claim, mine, or group
+ Carp.
+ Challenger.-
+Chaparral
+ Chariot
+ Chariot No. 4 and 5_
+ Chariot North
+ Chieftain_
+ Cincinnati
+ Cincinnati Belle (Cincinnati).
+ City of Richmond
+ Cold Beef (Gold Reef) _
+ Coleman Creek placers.
+ (Anthony Ranch)
+ Contact.
+ Curry
+ Dark Horse group
+ Desert Queen group_
+ Dewey
+Eagle .
+ Santa Ysabel Quadrangle^Mines and Mineral Resources
+ GOLD—Continued
+ Owner
+ Name, address
+ Sec.
+ B & M
+ Remarks
+ Southwest of Banner. See Ready Relief group. Pros
+pected by shallow pits and trenches. (Donnelly 34:
+ pi. 4; Merrill l(i:6.M. 6.57; Tucker 39:26.)
+ Not determined_
+ Ray and Theima Jacobs. P.O.
+ Box 207. Julian
+ Fred H. Farmer. Star Rt.. Santa
+ Ysabel
+ •
+ —
+ L. Bittner (1939).
+ Sawday Estate
+ 13S
+ 31
+ 33
+ 4
+ 14
+ 1
+ 31. 32
+ 12S
+ 13S
+ 12S
+ 13S
+ 13S
+ 13S
+ 13S
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ .SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ North of Banner. No published information. (Donnelly
+ 34: pi. 4; Hanks 86:83.)
+ Now Warlock. See Warlock group. Credited with eali
+mated total production of between S2.5.000 and S.50.
+000. (Crawford 94:239; 96:334; Donnelly 34:350.
+ 352; Hubon 02:6; Merrill 16:6.56. 659; Preston 90:
+ 344.)
+ See Golden Chariot. (Merrill 16:6.04; .\ewman 23; 106.)
+ See Poor Man's group. (Tucker 39:25. pi. 1.)
+ See Golden Chariot. (Donnelly 34:pl. 4; Merrill 16:
+ 656. 658; Tucker 39:19. pi. 1.)
+ North of Julian and adjoining the Owens. Small vein In
+ schist prospected by 2 adits. Lower adit 230-ft. cross
+cut with 70-ft. drift and stope on narrow (piarts
+ stringer that strikes northwestward and dips 75^* to
+ the east. Upper adit is 70 ft. long. Production believed
+ to be less than .$25,000. (Donnelly .34:352. pi. 4;
+ Goodyear 90:145; Merrill 16:656. 6,58: T.i^kfr .'id:
+ 39: pi. 1.)
+ See Cincinnati Belle. (Tucker 39:21. pi. 1.)
+ West of Banner. Formerly part of Kentuck group.
+ Quartz lenses in schist; strike northwestward, and
+ dip steeply to the southwest. Developed by 200 ft.
+ adit and 230 ft. shaft with levels at 50 ft. mtervals.
+ Level workings total less than 700 ft. in length. The
+ long cross cut adit of the Kentuck group extends
+ under Cincinnati Belle, but no exploration there.
+ Total estimated production between S25.000 and
+ $50,000. (Crawford 94:239; 96:334; Donnelly 34:
+ 352. pi. 4; Goodyear 90:147; Hubon 02:6; Merrill
+ 16:656, 659; Preston 90:542; Storms 93:380-381;
+ Tucker 25:340-341; 39:19. 21. pi. 1.)
+ See Golden Gem No. 3 (Tucker .il):i.l. 1.)
+ See C. B.
+ Between Julian and Wynola to the west. Earliest pros
+pecting along Coleman Creek near Wynola late in
+ 1869 preceded the first lode discoveries, the George
+ Washington and Van Wert, near Julian in February
+ 1870. Placer mining said to have continued until 1 
+880.
+ Some gold recovered during the late 1930s. (Don
+nelly 34:349; Haley 23:156; Tucker 39: 16.)
+ See Kentuck group. Portal of long exploratory adit for
+ Kentuck group on this claim. (Donnelly 34:pl. 4;
+ Merrill 16:656. 6.58; Tucker 39:21.)
+ See Madden group (Donnelly 34:pl. 4.)
+ South of Banner. Prospect. (Tucker 39:54.)
+ East of Banner. .Adjoins south end of San Felipe grant.
+ Location on topographic map incorrect. No pub
+lished information on mine or nature of deposit.
+ See Grapevine Star. (Merrill 16:648-649.)
+ Ida Wellington. 3511 Pershing
+ Ave., San Diego
+ North of Julian. Patented, .\djoins High Peak. Claim
+ located in 1870. Principal development is a 358 ft.
+ crosscut adit that intersects the southwest boundary
+ of the High Peak claim. This adit intersected three
+ veins that strike X 70°-80° W and dip o0°-80° NE.
+ The widths of these veins range from ^ in. to 12 in.
+ They are developed by drifts of 143 ft.. 37 ft. and
+ 157 ft. with associated stupes. To the west of the
+ adit described above, a 260 ft. drift was driven from
+ the surface northwestward along the same vein that
+ was followed by the 37 ft. drift. Total value of pro
+[Bull. 177
+ 28
+ Map
+ No.
+ California Division of Mines
+ GOLD—Continued
+ Location
+ Owner
+ Claim, mine, or group
+ Eagle—continued
+ East California
+ El Dorado
+ Elevada and Aguajito (El
+vado and Aguajito)
+ Ella (Old Ella).
+ Ella group (contains Califor
+nia and El Dorado claims)
+ Elvado and Aguajito group.
+ Empire (Apex)
+ Fountain.
+ Gardiner (Big Blue. Blue
+ Hill, Gem)
+ Gardner (Gardiner).
+ Gem
+ Name, address
+ Michael Mushet, Banner Queen
+ Ranch, Banner
+ John M. Collins. Julian.
+ John H. Mahon, Box 237, Julian
+ Frank Herron, Banner Grade,
+ Julian; or 468 Acheson, Pasa
+dena 6
+ D. F, Lane, Box 404, Julian, and
+ T. M. Jacobs. 320 San Diego
+ San Diego Trust and Savings
+ Bldg., 530 Broadway, San
+ Diego
+ Sec.
+ 4
+ 33
+ 1, 2.
+ 11, 12
+ 32, 33
+ 33,
+ 13S
+ 12S
+ 13S
+ 128
+ 12S,
+ 13S
+ 13S
+ 13S
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ B &M
+ Remarks
+ duction estimated at between $25,000 and $.50,000.
+ Some activit.v in late 1930s. (Crawford 96:335;
+ Donnelly 34:350. 352, 362. pi. 4; Eric 48:320;
+ Goodyear 90:145; Hanks 88:83, 85; Hubon 02:6;
+ Merrill 16:656, 658; Tucker 25:335-336; 34:326;
+ 39:17-18, pi. 1.)
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ See Warlock group. (Donnelly 34:pl. 4.)
+ See Ella group. Narrow vein, mined from inextcnsive
+ workings. Estimated production less than Si;5.000.
+ (Donnelly 34:352; pi. 4; Hubon 02:7; .Merrill
+ 16:656. 6,58.)
+ Southeast of Banner. Patented. Rehitivel.v wide. 2 to
+ 10 ft. zone containing (luartz lenses; strikes north
+west, dips 60" SW. Zone in granodiorite near small
+ schist body. Elevada mined from 160 ft. inclined
+ shaft having levels at 50 and 100 feet and from
+ 685 ft. crosscut adit driven southwest from Agua
+jito; drift from adit on vein 170 feet to sfiutheast.
+ Estimated production S25.000 to 850,000. (Craw
+ford 96:335; Donnelly 34:350, 351, 352. 353, pi, 4;
+ Hubon 02:6. 7; Merrill 16:656. 659; Tucker 39:18,
+ 1.)
+ East of Julian. Quartz vein in schist. Aerial tram to
+ small stamp mill near highway between Julian and
+ Banner. Estimated production less than S25.000.
+ In January 1957 the owner was driving a crosscut
+ adit westward. Five-stamp mill had been recondi
+tioned. (Crawford 94:239-240; 96:339; Donnelly
+ 34:352; Hanks 86:85: Merrill 10:6.56. 658; Tucker
+ 39:55, pi. 1.)
+ East of .Julian. Narrow veins in schist. Mined from in
+extensive workings. Small production. (Donnelly
+ 34:352, pi. 4; Hubon 02:6, 7; MerrilM6;656, 658.)
+ See Elevada and Aguajito group. (Tucker 39:18.)
+ Near Banner. Formerly part of Melrose group, now part
+ of Kentuck group. Vein in schist prospected by adit
+ and short drift. (Donnelly 34:pl. 4; Merrill 16:656,
+ 659; Tucker 21:377; 39:pl. 1.)
+ Southwest of Banner. See Ready Relief group. Pros
+pected by shallow pits and trenches. (Donnelly 34:
+ pi. 4; Merrill 16:656, 6S7; Tucker 39:26.)
+ See Gold Cross No. 1. (Crawford 96:332-333. 336;
+ Donnelly 34:352. 360-361; Goodyear 90:146-147;
+ Hubon 02:6; Merrill 16:656. 660; Preston 90:543;
+ Tucker 39: pi. 1
+ Spelling corrected to Gardner, which see. (Donnelly
+ 34: 352, 355. pi. 4; Goodyear 90:146; Hubon 02:6;
+ Merrin 16:656, 659; Preston 90:542, 544; Tucker
+ 39:19, pi, 1; 40:12.)
+ East of Julian. Part of Golden Gem group. Narrow
+ lenticular quartz veins in schist; strike northwest,
+ dip 70° NE; width 6 in. to 2 ft. Gold free, also
+ associated with arsenopyrite and pyrite. Developed
+ by 892 ft. crosscut adit driven southwest and by a
+ 300 ft. adit 200 ft. higher in elevation. Upper adit
+ did not intersect vein. Length of vein sloped not
+ recorded, but production is estimated at $200,000.
+ Most recent activity in early 1940s. (Donnelly
+ 34:352. 355, pi. 4; Goodyear 90:146; Hubon 02:6;
+ Merrill 16:656. 659; Preston 90:542, 544; Tucker
+ 39:19, pi. 1; 40:12.)
+ See Gardiner. (Tucker 39:19. pi. 1.)
+ George Washington
+See Washington. (Donnelly 34:349. 350. Hanks 86:82.
+ 83.)
+.
+ 29
+ .
+ 19581
+ Map
+ No.
+ Claim, mine, or group
+ Gold Cross No. 1
+ (I'Vaction)
+ Gold Cross No. 2 (Cable).
+ CJold KinR croup iconsists of
+ Cold Kinp, Gold King No.
+ 2 and 3, Gold Queen)
+ Gold Leaf.
+Good Luck .
+ Gold Queen.
+ Gold Ray.
+ Gold Reef.
+ Gold Standard. _
+ Golden Chariot (Inrludes
+ Chariot North and Golden
+ Chariot)
+ Golden Ella.
+ Santa Ysabkl Quadrangle
+ —Mines and Mineral Resources
+ GOLD—Continued
+ Location
+ Owner
+ Name, address
+ Frank Herron. Banner Grade,
+ Julian; or 468-Achesnn. Pasa
+Sec.
+ 3.10
+ T.
+ 13S
+ R.
+ 4E
+ B & M
+ Remarks
+ Now part of Kentuck group. Two parallel, narrow
+ veins, called Knelly and Cable, in schist; width from
+ 1
+ dena
+ F. H. Farmer,
+ Ysabel
+ O. F. Heckelman, 638 GrancUa
+ St.. La .loHa
+ R. G. Melrose (1939).
+ Formerly bflongod to Mike Mor
+ani, now deceased
+ C. C. Pease and Associates. Bank
+ of America Bldn.. San Diego
+ inch lo 2 feet, strike northwest, dip nearly vertical.
+ Mined from 3 adit levels, aggregate length mor<; than
+ 700 feet, and from 65 ft. shaft. C.iold in (|uart/. and
+ associated in places with rather large concentrations
+ of arsenopyrite. Average grade of ore was reported to
+ be in excess of 5 oz. of gold per ton. Estimated pro
+duction less than S25.000. fCrawford 96:332-333.
+ 336; Donnelly 34:352, 360-361, pi. 4; Goodyear 90:
+ 146-147; Hubon 02:6; Merrill 16:656. 660: Preston
+ 90:542-543; Tucker 39:19. pi. 1.)
+ Star Rt., Sanla
+ 10
+ Southwest of Banner and northwest of Ready Relief
+ claim. Vein, parallel to vein on Traction, explored by
+ 80 ft. shaft and adit. Estimated production less than
+ $25,000. (Crawford 96:332-333; Donnelly 34:352.
+ pi. 4; Goodyear 90:146-147; Hubon 02:6; Merrill
+ 16:656, 660; Preston 90:543; Tucker 39:pl. I.)
+ SB
+ 13S
+ I3S
+ 13S
+ Soutli of Banner. On patented land. High grade ore
+ in thin quartz stringers in gneissic granodiorite near
+ contact with Julian schist. Discovered about 20 years
+ after principal discoveries in Julian district. Stringer
+ zone strikes N. 30° W.. dips 50° to 80° NE. Early
+ reports state ore was extremely rich. Gold King ex
+plored by 134-ft. shaft and appended 100 ft. drift.
+ Gold Queen shaft, about 600 feet southeast on paral
+lel zone, 200 feet deep with a 400 ft. appended drift.
+ Estimated total production from fiold King and
+ Gold Queen less than $25,000 each. (Crawford 94:
+ 241; 96:337; Donnelly 34:350. 351. 352. 353. 369.
+ pi. 4; Goodyear 88:520; 90:143-144; Hubon 02:7;
+ Irelan 88:513; Merrill 16:656. 658; Preston 90:543;
+ Storms 93:381; Tucker 39:20.)
+ See Kentuck group. (Donnelly 34 :])!. 4; Tucker 39:21.)
+ Soutti of Banner. Prospect. (Tucker 39:54. pi. 1.)
+ See Gold King group. (Crawford 94:241; 96:337; Don
+nelly 34:352. 353, 369, pi. 4; Hubon 02:7; Merrill
+ 16:656, 658; Tucker 39:20.)
+ See C.B. (Donnelly 34: pi. 4.)
+ See C.B. (Donnelly 34;pl. 4; Tucker 25:337; 39:20.
+ pl. 1.)
+ South of Banner. Prospect. Adjoined Fovmtain claim
+ on southeast. (Tucker 39:54, pL 1.)
+ South of Banner. Discovered in February 1871; has
+ been the most productn'e mine in the Julian-Banner
+ district. Lenticular vein. 12 inches to 2 feet wide in
+ schist near contact with granodiorite; strikes N. 20°
+ \V,, dips 65" NE. Gold occurred free, in auriferous
+ sulphides—mainly pyrrhotite. Also possiblj' as a
+ telluride. Ore shoots plunged northwestward; most
+ productive shoot was 4 feet wide, had a stope length
+ of 65 feet, and vertical extent of 185 feet. Mine devel
+oped by series of shafts, ranging in depth from 40 to
+ 350 feet, extendmg along strike length of at least 400
+ feet. Level workings very extensive. Most shafts
+ caved or flooded. In 1946, main shaft and workings
+ unwatered to 300 ft. level by lessee but no further
+ work done. Present owner exploring quartz vein ex
+posed 30 ft. east of most southerly shaft. Ore mined
+ in early days contained as much as 10 to 20 oz. gold
+ per ton (at S16 to S18 per oz.). Total estimated pro
+duction 3700,000. (Crawford 94:240; 96:337; Don
+nelly 34:345-346. 349, 350. 351. 352, 353. 355. 359
+360, 361. 303, 365. 367, 368, pl. 4; Goodyear 90: 147;
+ Hanks 86:86; Merrill 16:654, 656, 658; Newman
+ 23:106; Tucker 21:377; 24a:372; 25:337-339; 39:
+ 19-20. pl. 1.)
+ George Harrington; inquire at
+ Banner Store, Banner
+ 13S
+ South of Banner. Narrow quartz vein in granodiorite,
+ strikes N. 10° E.. dip 50" SE. Explored by 130 ft.
+ inclined shaft. (Tucker 39:20, pl. 1.)
+30
+ California Division of Mines
+ GOLD—Continued
+ [Bull. 177
+31
+ 10581
+ Map
+ No.
+ 18
+ 19
+ 20
+ Saxta YsABEi- Quadrangle
+ —Mines and Mineral UEsontcEs
+ GOLD—Continued
+ Owner
+ Claim, mine, or group
+ Helvetia.
+ Name, address
+ D, F, Lane. Box 404. Julian,
+ and T. M. Jacobs, 320 San
+ DieRo Trust and Springer
+ BIdg.. 530 Broadway, San
+ Diego
+ Sec.
+ 4, 5
+ T.
+ 13S
+ R.
+ 4E
+ B & M
+ SB
+ Remarks
+ East of Julian. Patented claim. One of the most produc
+tive mines and one of the last to be discovered in the
+ Julian district, late in 1870. Quartz lenses in schist
+ follow zone striking northwestward, dip northeast.
+ Lenses, discordant at a low angle with the schist,
+ mostly small, but contain some large ore shoots.
+ Main ore shoot pitched steeply south, was 150 feet in
+ vertical length and a stope length of 100 feet.
+ Developed to depth on the vein of about 300 feet by
+ 2 sliafts. about 250 feet apart, and more than 1600
+ feet of level workings. Total estimated production
+ S450.000 from ore ranging in grade from S12 to S7.t
+ per ton. Long idle and workings inaccessible. (Craw
+ford 94:241; 96:339: Donnelly 34:348. 350. 352. 354.
+ .355. 363. 363. pi. 4: Goodyear 90:14.5-146; Hubon
+ 02:6. 7. 9; Merrill 16:6.56, 659; Preston 90:542:
+ Storms 93:376-378; Tucker 39;pl. 1.)
+ Herma-
+Herman.
+ Hidden Treasure
+ High Peak
+High Peak group.
+ High Peak South
+ Home Builders
+ Homestake (Wilcox).
+ Hubbard
+ Ida Claire
+ —
+ Jacques
+ Herman Meyer (1939)
+Frank Herron. Banner Grade,
+ Juhan; or 468 Acheson,
+ Pasadena 6
+ L. A, Smith Estate and Marks
+ sisters, 2441 Pamo Ave.. San
+ Diego
+ Julia Loock (1939)
+ Frank Herron. Banner Grade,
+ Julian: or 468 Acheson. Pasa
+dena 6
+ Chas. A. Ferrin. Julian (1935).
+ 13S
+ 13S
+ 13S
+ 31. 32
+ 32.
+ 11
+ 10. II
+ 12S
+ I2S
+ 13S
+ 13S
+ 13S
+ 13S
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ SB
+ East of Julian. Prospect, (Tucker 39:54.)
+ Southwest of Banner. North of Ora group. Now on
+ patented homestead land, adjudicated out as mining
+ claim. No published information. (Donnelly 34 : 
+pi. 4.)
+ West of Baimer. Formerly part of Ready Rehef group,
+ now included in Kentuck group. Narrow vein in
+ schist: strike northwest, dip 70^-80® southwest.
+ Shows remarkable "'roll" formation described by
+ Donnelly. One roll followed continuously for 500
+ feet. Mine developed by (300 ft. adit, an incUned
+ shaft, and extensive level workings above the adit
+ level. Total estimated production about £25,000
+ from ore said to average S65 per ton. (Crawford
+ 94:241; 96:339; Donnelly .34:3.52. 358. pi. 4: Good
+year 90:147; Hubon 02:7; MerrUl 16:656. 657.)
+ North of Julian, .\djoining Eagle. Principal develop
+ment is a 462 foot drift driven N 65° W along a
+ mineralized fault zone that dips 80° NE. '.\bout 350
+ feet from portal narrow stringers of quartz were
+ worked by stoping. .\ vertical winze now caved at
+ about 50 feet, was sunk on a vein parallel and north
+ of that described above. This vein dips 70° NE and
+ averages about 10 inches in width. Some ore con
+tained more than 2 oz. gold per ton. Value of total
+ production is estimated at between S25.000 and
+ S50.000. (Crawford 94:241: 96:339: Donnelly
+ 34:350. 352. pi. 4: Hanks 86:83. 85; Hubon 02:7;
+ Merrill 16:656, 659; Preston 90:542; Tucker 25:339
+340; 39:14. 21. pi. 1.)
+ Formerly included High Peak. High Peak South.
+ Roosevelt Lode, and Rossland. Latter two claims
+ adjudicated out as mining claims.
+ Series of cuts southeast of High Peak claim and for
+merly in High Peak group. Now on patented land,
+ adjudicated out as mining claim. (Donnelly 34: pi. 1.)
+ South of Banner. Prospect. (Tucker 39:54. pi. 1.)
+ South of Banner. Formerly part of the Melrose group;
+ now part of the Reed (formerly Poor Man's) group.
+ Two narrow quartz zones along contact between
+ schist and granodiorite. Strke northwest, dip south
+west. Explored by adit and open cut. Total estimated
+ production less than $25,000. (Crawford 94:243:
+ 96:345; Donnelly 34:352. pi. 4; Hubon 02:8;
+ Merrill 16:656. 6.59; Tucker 25:342: 39:25. pi. 1.)
+ South of Banner. Same as North Hubbard. See Ready
+ Relief group. (Crawford 94:241; 96. 342; Donnell.v
+ 34:350; Hanks 86:87; Newman 23:49: Storms
+ 93:380.)
+ South of Banner.-Adjoins Golden Chariot on west. No
+ published information. ( 
+Donnelly 34 ; 
+pi. 4.)
+ Earl J. Lusk (1939)
+ 13S
+ 4E
+ SB
+ South of Banner. Prospect. (Tucker 39:55. pi. 1.)
+.
+;
+ ;
+ .
+ .{2
+ Map
+ No.
+ Claim, mine, or group
+ Janet
+ Jamper (
+ probably Hassay
+tiampa)
+ Kentuck group f
+ contains
+ Contact, Empire. Gold
+ Cross No. 1. Gold Leaf.
+ Hidden Treasure. Kentuck
+ S. and Wedge claims)
+ Kentuck S.
+ Keystone Pilot
+Ledge Lode
+ Lucky Ben
+Lucky Gene_
+ Lucky Strike.
+ Lucky Strike
+Madden_
+ Madden (Gopher) group
+ (consists of Curry, Gopher,
+ and Old Madden claims)
+ Majestic group
+ Caijfornia Division of Mines
+ GOLD—Continued
+ Location
+ Owner
+ Name, address
+ Julian Mining and Milling Com
+pany, Julian
+ Eldridge McG<.
+ geles
+ Los An
+Frank Herron. Banner Grade,
+ .fulian; or 4fi8 Acheson. Pasa
+dena 6
+ Not determined
+ Ralph J. Wagor, Rt. 2, Box 345.
+ Escondido
+ Mrs. C. Wilson. Julian_
+ Sec.
+ 3. 10
+ 31
+ 3.4
+ 4E
+ 13S
+ 13S
+ 12S
+ 12S
+ 13S
+ lis
+ 13S
+ 4E
+ 4E
+ 4E
+ 4E
+ 4E
+ SB
+ SB
+ SB
+ [Bull. 177
+ Northwest of Julian. Quartz vein in schist, northwest
+erly extension of Owens; strikes northwestward, dips
+ northeastward. Developed by 12.5 ft. shaft and 100 ft.
+ adit. Also a 125 ft. crosscut adit intersects the Owens
+ vein on which drifts driven in both directions, (Don
+nelly 34:pl. 4; Hubon 02:7; Merrill 1«:656, 660;
+ Tucker 25:346; 39:pl. 1.)
+ SB
+ SB
+ One and one-half miles east of Julian. Adjoins s<)Utli
+east end of Helvetia claim. Developed by a 200 ft.
+ adit driven S 60° E m a fault zone in Julian schist.
+ Zone dips 70*^-75° E. Two winzes of unknown
+ depth, a stope 15 ft. above adit-back, and a 50 ft.
+ drift driven parallel to the main adit, nearly adjacent
+ to it on the south, (Donnelly 34: pi. 4)
+ East of Banner. Several of these claims were formerly
+ in the Melrose group. Empire, Gold Cross No, I.
+ Hidden Treasure and Kentuck S claims described
+ individually in this list. Main workings on group con
+sists of a 1540 ft. crosscut adit, driven southwest
+ward frf)m the Contact claim to a poml under Cin
+cinnati Belle. Adit does not intersect any workings
+ on the claims above. No openings driven from adit.
+ Intended to provide drainage. Some work done on
+ iroup by lessee in 1947; small amount of ore mined.
+ (Crawford 94:241; 96:340; Donnelly 34:350. 352,
+ pi. 4; Hanks 86:86; Hubon 02:7; Merrill 16:656;
+ 658. 659 : 
+Preston 90: 
+542-543; 
+Storms 93 : 
+380
+ Tucker 25:340-341; 39:21. pi. 1.)
+ See Kentuck group. Two parallel veins in schist; strike
+ N 30'' W. dip 70° NE. width 6 inches to 4 ft. Ore
+ mined from 2 shafts; one 97 ft. deep with stopes to
+ the surface, all caved; one 100 ft. deep and inter
+sected at 50 ft. depth by 350 ft, crosscut adit driven
+ southwestward. Shaft met at point 100 ft. from adit
+ portal. Total estmiated production between S25,000
+ and $50,000 from ore reported to have contained
+ between 2 and 3 oz. gold per ton. (Crawford 94:241;
+ 96:340; Donnelly 34:352, pi. 4; Hubon 02:7; Merrill
+ 16:656. 659; Storms 93:380; Tucker 25: 340-341;
+ 39:21.)
+ Northwest of .lulian. On patented homestead land
+ adjudicated out as mining claim. (Donnelly 34: pi, 4.)
+ Northwest of Julian. Prospect. Now on patented home
+stead land adjudicated out as mining claim, (Tucker
+ 39:55. pi. 1.)
+ See Bedrock as now known. (Donnelly 34:pl. 4; Mer
+rill 16:6.58.)
+ Southwest of Banner. Prospect. (Tucker 39: pi, I.)
+ See Grand Strike.
+ South slope San Ysidro Mountains north of Montezuma
+ Valley. Prospect. (Tucker 39:55, pi. 1.)
+ See Old Madden, the name used when patented. Part
+ of Madden group. (Crawford 94:242; 96:341; Don
+nelly 34:350. 352, 354. 361, pi. 4; Hanks 86:86;
+ Hubon 02:7; Merrill 16:656. 657; Tucker 25:341;
+ 39:22.)
+ West of Banner, Three patented claims. Quartz veins
+ in schist. Principal workings on Old Madden and
+ Gopher. Not worked as a group. Described individ
+ually in this list. No information in literature on
+ Curry workings, (Crawford 94 . 
+238. 242 ; 
+96 . 
+33 1 . 
+341
+ Donnelly 34:350. 352. 354, 361. pi. 4; Hanks 86:86;
+ Hubon 02:6, 7; Merrill 16:656. 657; Preston 90:544;
+ Storms 93:380; Tucker 25:341; 39:22. pi. 1.)
+ A. M. Andreason. Julian^
+ SB
+ East of Julian. Two patented claims. Quartz veins in
+ schist. Explored by 150 ft. adit driven westward and
+ a 30 ft. winze. Other workmgs caved and their extent
+ not recorded. (Donnelly 34:pl. 4; Tucker 39:pl. 1.)
+--
+ 33
+ 1<)581
+ Map
+ No.
+ 25
+ 26
+ 27
+ Santa Ysabel Quadrangle
+ —Mines and Mineral Resources
+ GOLD—Continued
+ Location
+ Owner
+ Claim, mine, or group
+ Mascot
+ Name, address
+ Not determined.
+ Sec.
+ 13S
+ B &M
+ SB
+ Remarks
+ South of Banner. Adjoins east side of Golden Chariot.
+ No published information. (Donnelly 34: pi. 4.)
+ Maude E
+ Melrose Kroup
+ Montezuma
+Neptune.
+ New Owens
+ Nip and Tuck (Lucky Ben).
+ North Hubbard (Hubbard).
+ North Redman.
+ Northwest Redman.
+ 9
+ North Star.
+ Old Ella
+ Old Madden (Madden).
+ Maude E. and L. L. Bosworth
+ (1931)
+ Formerly R. M. Melrose, deceased
+ Not determined
+ H. S. Couzens, San Diego
+ 13S
+ 3. 10.
+ II
+ 10
+ 10
+ 13S
+ lis
+ 13S
+ 13S
+ 3E
+ 4E
+ 4E
+ 4E
+ SB
+ SB
+ SB
+ SB
+ South of Ballcna Valley. Prospect. (Tucker ?t\* xA l i
+ South of Banner. Dissolved. Forinerl.v in<-lucied .A;>ex,
+ Homestake, North Star, and Stanley claims. No pub
+lished information of workings on Stanley. Other
+ claims discussed individually in this list. (Crawford
+ 94:243; 96:342. 34.5; Donnelly 34:352, 353, pi. 4;
+ Hubon 02:8; Merrill 16:6.i6, 657, 659: Tucker 21-'
+ 377; 25:342; 39:pl. 1.)
+ South slope San Ysidro Mountains, north of Montezuma
+ Valley. The principal property of several in the dis
+trict. Quartz veins cut schist, quartz diorite and
+ "mixed rocks." Main vein strikes N. 65** E., dips 70°
+ NW., 4 ft. wide at surface. Vertical shaft reported
+ to be 230 ft. deep with 2.000 ft. of level workings.
+ (Merrill 16:648; Tucker 25:342-343; 34:326-327;
+ 39:23, pi. 1.)
+ Part of Warlock group. Neptune vein, strikes north
+westward and dips northeastward, cut by Warlock
+ crosscut adit 1400 ft. from portal, and 100 ft. raise
+ driven on vein. Inextensive workings on vein from
+ surface. Total estimated production less than $25,000.
+ (Crawford 94:242; 96:342; Donnelly 34:352. pi. 4;
+ Hubon 02:8; Tucker 39:pi. 1.)
+ See Owens. (Donnelly 34:pl. 4; Hubon 02:8; .Merrill
+ 16:656, 660: Preston 90;541-.542; Tucker 25:345
+346.)
+ See Bedrock. (Merrill 16:658.)
+ South of Banner. See Ready Relief group. Lenticular
+ quartz vein in schist: strikes N. 60° W".. dips 70° NE.
+ Width 2 to 6 ft.; widest portions where several limbs
+ of rolls come together. Gold both free and with sul
+phides, chiefly pyrrohotite. Some tourmalineingangue.
+ Mine developed by 200 ft. crosscut driven south
+ to vein. 500 ft. drift on vein to northwest, 3(X) ft.
+ drift on vein to southeast, a 100 ft. winze in the north
+ drift and considerable stoping. some to the surface.
+ Workings connect with those of the Ready Relief to
+ the northwest. Total estimated production S200.000.
+ (Crawford 96:342; Donnelly 34:346. 350. 352. 354.
+ 355, 360, 361. pi. 4: Hamilton 20:35; Hubon 02:8. 9;
+ Merrill 16:656. 658; Storms 93:380; Tucker 21:377;
+ 24a:373: 39:15. 26-27.)
+ Same as Northwest Redman. See Ready Relief group.
+ (Donnelly 34: pi. 4; Merrill 16:657 I
+ Southwest of Banner. See Ready Relief group, also
+ Redman. (Tucker 39:26.)
+ Southeast of Banner. Formerly part of Melrose group.
+ Two parallel veins in schist; strike northwest, dip
+ northeast; width 3 ft. Shaft on each vein; one 115 ft.
+ deep, other 50 ft. with 70 ft. appended drift. Early
+ report indicates ore contained \i oz. gold per ton.
+ Total estimated production less than S25.000.
+ Craw
+'
+ ford 96:342; Donnelly 34:353. pi. 4; Hanks 86:85:
+ Hubon 02:8; MerrUl 16:656, 659; Tucker 25:342;
+ 39: pi. 1.)
+ See Ella. iTucker 39:55, pi. 1.)
+ Mrs. C. Wilson. Julian.
+ 13S
+ 4E
+ SB
+ Part of Madden group; southeast of Gopher. Two
+ narrow quartz veins in schist; strike northwest, dip
+ southwest. Developed by 200 ft. shaft, now caved but
+ with 500 ft. of drifts reported, a short adit, and a
+ 100 ft. inclined shaft with a 00 ft. northwest drift at
+ the bottom, .\verage yield from ore mined in early
+ operations was between 4 and 5 oz. of Kuld per ton.
+ Total estimated production between $25,000 and
+ $50,000. (Crawford 94:242; 96:341; Donnelly 34:
+ 350. 352. 354. 361. pi. 4; Hanks 86:86; Hubon 02:7:
+ MerrUl 16:656, 657: Tucker 25:341; 39:22, pi. II
+,
+ [liull. 
+]
+ 34
+ Map
+ No.
+ California Division of Mines
+ GOLD—Continued
+ Location
+ Owner
+ Claim, mine, or group
+ Old Owens.
+ Ora group (consists of Ora
+ No. 1 and No. 2 and
+ Rocky Genes)
+ Ord group
+Osage
+ Owens (Old Owens and New
+ Owens)
+ Padlock
+ Pine Tree_
+ Name, address
+ Howard Williains, lfi2fi Seventh
+ Street, San Dietio
+ Cecil .1. 
+and Fred J. Crease,
+ Julian
+ Sec.
+ 31
+ T.
+ 13S
+ 12S
+ 13S
+ R.
+ 4E
+ 4E
+ B Jk
+ Remarks
+ M
+ SB
+ SB
+ See Owens. (Hubon 02:8; Merrill 16:656, 660; Preston
+ 90:541. 542; Tucker 25:345-346.)
+ Southeast of Julian. Prospect. Patented homestead land
+ now adjudicated out as mining claitii. (Donnelly 34 :
+ pi. 4; Tucker 39: pi. 1.)
+ See Ora group. (Tucker 39: pi. 1.)
+ North of Julian. On homestead land and adjudicated
+ out iJS a mining claim. (Donnelly 34:pl. 4; Tucker
+ 39:pl. 1.)
+ North of Julian. Patented. Discovered in March 1870;
+ one of most productive mines in the Julian district.
+ Two parallel veins, the Owens and Red Ledge 20 ft.
+ apart, ^ to 4 ft. wide, lie conformably in scliist;
+ strrke N. 70*" W. dip 80° NE. Both mined frum single
+ vertical shaft 350 ft. deep. Red Ledge, northeast of
+ Owens vein, mined to depth of 200 ft. Owens vein
+ mined to 300 ft. deptli along strike length of 400 ft.,
+ mostly southeastward from shaft. Level w<jrkings
+ aggregate length probably exceeded 1500 ft. Average
+ grade of 920 tons of ore produced 1872-73 nearly S46
+ or between 2 and 3 oz. gold per ton. Total estimated
+ production S450.000. (Crawford 94:242; 96:343;
+ Donnelly 34:348. 350. 352, 354, 355, 361. 363, pi. 4;
+ Eric 48:320; Goodyear 88:519; 90:144-145; Hanks
+ 86:83. 85. 87; Hubon 02:8. 9; Merrill 16:656. 660;
+ Preston 90:541-542; Storms 93:378; Tvicker 21 :377
+378; 25:345-346; 39:14, 24. pi. 1.)
+ East of Julian. Southeast of Warlock group and at one
+ time part of that operation. Two veins, strike north
+west, dip southwest, explored by inextensive work
+ings. Total estimated production less than $25,000.
+ (Donnelly 34:353, pi. 4; Hubon 02: 8; Merrill 16:656,
+ 658; Tucker 39:28.)
+ 13S
+ 29
+ Poor Man's group (Banner
+ Gold, Chariot No. 4 and 5
+ Pride of Julian _
+ Pride of the West (Pride of
+ Julian)
+ Raindrop.
+ Ranchita,
+ Ranehito (RanchitaK
+ Quayle Bros, et al.. Spreckles
+ Building. San Diego (1939)
+ Cauzza Bros., Julian.
+ Heirs to Cave Couts Estate;
+ leased to William Mushet.
+ Banner Queen Ranch. Ban
+ner (1957)
+ 3, 10
+ 11
+ 11. 12
+ 12S
+ 13S
+ East of Julian, South of Helvetia mine. No published
+ information on deposit. Now on patented land ad
+judicated out as mining claim. (Tucker 39: pi. I.)
+ 4E
+ 4E
+ 3E
+ SB
+ SB
+ SB
+ Part of Reed group. Vein reported 3 ft. wide, along
+ contact between schist and granodiorite. Explored
+ by a 50 ft. and a 100 ft. shaft plus open cuts. (Don
+nelly 34: pi. 4; Tucker 39:25, pi. 1.)
+ South of Banner. Formerly comprised six claims.
+ HiJinestead. Poorman, and Treasure Hill were
+ located as Reed group, which see. Banner Gold,
+ Chariot No. 4. and Chariot No. 5 claims lie east of
+ other claims. No recorded information of work done
+ on these three. (Crawford 94:243; 96:345; Donnelly
+ 34:352, pi. 4; MerriU 16:656, 657; Tucker 25:342;
+ 39:25. pi. 1.)
+ See Pride of the West. (Hubon 02:8.)
+ On patented ranch land west of Julian. Quartz vein, 1
+ to 3 ft. wide, strikes N. 15° W.. dips 65° E. Cuts
+ "mixed rocks". Prospected by 340 ft. crosscut adit
+ and 255 ft. of drifts on vein. Early mining produced
+ ore having a grade of about 154 o-^- gold per ton.
+ Production during the mid-1930s amounted to about
+ S14.000. (Hanks 86:85; Hubon 02:8; Merrill 16:656.
+ 658; Tucker 34:327; 39:25, pi. 1.)
+ Southwest of Banner. See Ready Relief group. Pros
+pected by shallow pits and trenches. (Donnelly
+ 34:pl. 4; Merrill 16:656, 657; Tucker 39:26.)
+ See Ranehito. (Crawford 96:344; Donnelly 34:346.
+ 350. 351. 352, 353. 369. pi. 4; Hubon 02:9; Merrill
+ 16:656, 658; Tucker 25:346; 39:pl. 1.)
+ Southeast of Banner on a patented liomestead. Not
+ discovered until nearly 25 years after first mines in
+ Julian district, but has total estimated production of
+ SI 50.000. Quartz lensos in shear zone discordant to
+ schistose rocks; strike nortliwest. dip 00^-70'^ NE.,
+ width 12 inches to 3 ft. Mine developed by 165 ft.
+.
+ ;
+ 1058]
+ Map
+ No.
+ 32
+ Santa Ysabel Qi^adrangle
+ —Mines and Mineral Resources
+ GOLD—Continued
+ Owner
+ Claim, mine, or group
+ Name, address
+ Sec.
+ T.
+ B & M
+ Remarks
+ and 330 ft. inclined shafts, and 330 ft. vertical shaft.
+ (Considerable level workings and slopes. (Crawford
+ 96:344; Donnelly 34:345; 3.30. 351. 352. 353. 369.
+ pi. 4; Hubon 02:8, 9; Merrill 16:(;5r,, f,r>H: Tuc-k.'r
+ 25:346; 39:25-26. pi. 1; 40:12.)
+ Ready Relief.
+ Ready Relief grovip (com
+posed of Belmont. Carp,
+ Fountain, Nortli Hubbard,
+ Northwest Redman, Rain
+drop. Ready Relief. Red
+man, South Hubbard, and
+ Tom Paine claims) (Ready
+ Relief once known as Bailey
+ Brothers mine) (map loca
+tion is that of Ready Relief
+ claim)
+ Red Wing,
+ Redman_
+ Reed group (contains the
+ Homestake, Poorman, and
+ Treasure Hill claims)
+ Rocky Genes
+ Roosevelt Lode_
+ Rosaiyn^
+ Roseland.
+ Roselyn.
+ See Grapevine Star. Not same as Ready Hehc-f m
+ group below. (Merrill 10:648-649.)
+ Frank Herron. Banner Grade,
+ Julian; or 468 Acheson, Pasa
+dena 6, and C. L. Jones. El
+ Paso, Texas
+ Frank Herron. Banner Grade.
+ Julian; or 468 Acheson, Pasa
+dena 6
+ 3. 10
+ 11
+ 3, 10
+ 11
+ SB
+ 12S
+ 13S
+ 12S
+ 4E
+ 4E
+ 4E
+ SB
+ SB
+ SB
+ South and southwest of Banner. Production of group
+ probably exceeds that of Golden Chariot: individ
+ually, the Ready Relief is second to the Golden
+ Chariot. Redman first of group to be discovered,
+ August 1870. followed by North Hubbard, Ready
+ Relief, and others. Mine workings described under
+ names of individual claims. Ready Relief vein north
+westerly extension of that on North Hubbard. Len
+ticular vein and rolls in schist. 2 to 6 ft. wide, widest
+ where limbs of rolls are joined. Strike N. 60° W.. dip
+ 70° NE. Mine workings which join to those of North
+ Hubhnrd consist of 3 drift adits driven southeastward
+ on vein. Lowest 600 ft. long; intermediate, 60 ft.
+ higher. 500 ft. long; upper, .50 ft. higher, 530 ft. long.
+ Shaft at portal of lowest adit 220 ft. deep. Stopes
+ extensive. Ore mined in early days carried as uuich
+ as 6 oz, gold per ton, average probably slightly less
+ than 1 oz. per ton. Total estimated production
+ 8500,000. Small mill on property; driven by power
+ generated from water under 700 ft. head. (Crawford
+ 94:241, 242, 243; 96:339. 342, 344, 345; Donnelly
+ 34:338. 346. 350, 351. 352. 354, 355-356, 362, 365.
+ 368. pi. 4; Fairbanks 94:321-322; Goodyear 88:520;
+ 90:147-148; Hamilton 20:35; Hanks 86:86. 87-79;
+ Hubon 02:8. 9; Irelan 88:513-515; Merrill 16:656,
+ 657. 658: Newman 23:49; Preston 90:543-544;
+ Storms 93 :
+ 378-380; Tucker 21 :
+ 377; 
+24a :
+ 373
+ 25:346-347; 34:327; 40:12; 39:15. 26-27. pi. 1.)
+ Northwest of Julian. On homestead land and adju
+dicated out as a mining claim. (Donnelly 34: pi. 4:
+ Tucker 39:pl. 1.)
+ Southwest of Banner. See Ready Relief group. Dis
+covered in .\ugust 1870, first in Chariot Canyon.
+ Vein in schist, northwesterly strike, southwesterly
+ dip; width as great as 2 ft. Mine developed by 114 ft.
+ vertical shaft having a 3(H) ft. drift northwest on
+ vein at the 110 ft. level; 120 ft. adit cuts shaft 25 ft.
+ below collar. Workings on 110 ft. level exposed 2
+ ore shoots. 45 ft. in maximum dimension. Workings
+ caved. Total estimated production between S25.000
+ and S50.000. (Crawford 94:242; 96:344; Donnelly
+ 34:350. 352. pi. 4; Hanks 86:86. 87; Hubon 02:8;
+ Merrill 16:657; Storms 93:380; Tucker 24a:373;
+ 39:26-27; 40:12.)
+ South of Banner. These claims formerly part of Poor
+ Man's group. Homestake once part of Melrose
+ group. Claims discussed individually in this list.
+ (Crawford 94:243; 96:345; Donnelly 34:3.52. pi. 4;
+ Hubon 02:8; Merrill 16:6.56. 657; Tucker 25:342;
+ 39:25. pi. 1.)
+ See Ora group. (Donnelly 34:pi. 4.)
+ North of Julian. Fraction claim, formerly part of High
+ Peak group. Now on patented homestead land
+ adjudicated out as mining claim. No production.
+ (Donnelly 34:pl. 4; Hubon 02:8; Tucker 39:pl. 1.)
+ See Rossland. (Tucker 25:339.)
+ See Rossland. (Hubon 02:8.)
+ See Rossland. (Tucker 39:21.)
+ Rossland (Rosalyn, Roseland,
+ Roselyn)
+ Ruby_.
+ Formerly part of High Peak eroup. Now on patented
+ homestead land adjudicated out as mining claim.
+ H. S. Couzens. San Diego_
+ 3, 4
+ 4E
+ SB
+ East of Julian. Southeast of Warlock group; at one
+ time part of that operation. No published informa
+tion on workings but total production estimated at-less than S25.000." (Donnelly 34:353. pi. 4;
+ Merrill 16:657, 658; Tucker 39:28.)
+;?6
+ Calip^ornia Division of Mines
+ GOLD—Continued
+ [Bull. 177
+] 9.-181
+ Santa Ysabkl Qi'adranoi.e
+ —JIines and Minkkai, Hksottroes
+ GOLD—Continued
+ 37
+:'!8
+ California Division of Mines
+ NICKEL
+ [Bull. 177
+REPORTS CITED
+ Blake, W. P.. 185(3. Pacifie' Hailroad Surveys, vol. 5,
+ pt. 3.-iM Coii-r., 2d Sess.. Ex. Doc. 78. Chapt. 8. it. 10.
+ lioalich. E. S.. and Castello, W. 0.. 1918. Antimony,
+ graphite, niekel, potash, strontium, tin: California .Min.
+ Bur. Prelim. Kept. 5, 44 pp.
+ Calkins, F. C, 1916, An occurrence of nickel ore in
+ San Die,i.'o County. California; V. S. Geol. Survey Bull.
+ (i4(). pp. 77-82.
+ Crawford, J. J.. 1894. Cold
+ —San Diefro County: Cali
+fiirnia ilin. Bur. Kept. 12, pp. 287-243.
+ Crawford, J. J., 1896. Gold—San Diego County: Cali
+foi-nia Jlin. Bur. Kept. 13, pp. 331-347.
+ Creasey, 8. C, 1946, Geolofr.v and nickel mineraliza
+tion of the Jidiau-Cuyamaca area. San Diego County,
+ California: California Div. Mines Kept. 42. pp. 15-2!1.
+ Donnell\-. ]\Iaurice, 1934, (Jeology and mineral deposits
+ of the-lulian district, San Diejro County, California:
+ California Div. Mines Kept. 30, pp. 331-370, pi. 4.
+ Ellis, A. J., and Lee, C. IL, 1919, Geolojry and ground
+ waters of the western part of Sau Diego County, Cali
+V. S. Geol. Survev AVater-Sujiplx- Paper 446.
+ fornia :
+ 321 pp.
+ Eric, J. II., 1948, Tabulation of copper deposits of
+ California, San Diet;o Countv : 
+California Div. Mines
+ P.ull. 144, p. 320.
+ Everhart, D. L., 1951, Geology of the Cuyamaea Peak
+ quadrangle, San Diego Countv, California : 
+California
+ Div. Mines Bull. 159, pp. 51-115, pis. 2-6.
+ Fairbanks. II. W., 1893, Geology of San Diego : 
+also
+ portions of (_)range and San Bernardino Counties; Cali
+foi'uia Mill. Bur. Kept. 11, pp. 76-120.
+ Fairbanks, 11. W., 1894, A remarkable folded vein in
+ the Ready Relief mine (Banner district, San Diego,
+ Cal. ) ;
+ Eng. and Min. Jour., vol. 57, pp. 321-322.
+ tioodyear, W. A., 1888, San Diego County : 
+California
+ Min. Bur. Rept. 8. pp. 516-528.
+ Goodyear, AV. A., 1890, San Diego Countv; California
+ Min. Bur. Rept. 9, pp. 139-154.
+ Haley, C. S.. 1923, Gold placers of California : 
+Cali
+fornia Div. Jlines Bull. 92, p. 156.
+ Hamilton, Fletcher, 1920, A review of mining in Cali
+fornia during 1919 with notes on outlook for 1920: Cali
+fornia ]\Iin. Bur. Prelim. Kept. 6, 43 pp.
+ Hanks, II. G., 1886, San Diego Countv: California
+ Min. Bur. Rept. 6, pt. 1. pp. 80-90.
+ Hill, J. M., 1912, The mining districts of the western
+ United States, with a geologic introduction bv W'aldemar
+ Lindgren; U. S. Geol. Survev Bull. 507. pp. il4, 130-131,
+ pi. 5.
+ Ilubon. I. A.. 1902. Register of mines and minerals,
+ San Diego Countv. California. California Min. Bur.,
+ 11 pp.
+ Hudson, F. S., 1922, Geology of the Cuyamaea region
+ of California with special references to the origin of
+ niekeliferous pvrrhotite ; 
+California Univ., Dept. Geol.
+ Sci. Bull, vol. 13, pp. 175-252.
+ Hurlbut. C. S., 1935. Dark inclusions in tonalite from
+ southern California : 
+Am. ilineralogist, vol. 20. pp. 609
+630.
+ Irelan, AV. J., 1888, San Diego Countv: California
+ :Min. Bur. Rept. 8, pp. 512-516.
+ Larsen, E. S. Jr., 1948, Batholith and associated rocks
+ of Corona, Elsinore, and San Luis Rev quadrangles.
+ IN BULLETIN 177
+ southern California; Geol. Soc. America Mem. 29.
+ Larsen, E. S. Jr., 1951, Crystalline rocks of south
+western California: California Div. Mines Bull 159
+ 136 pj).
+ Logan, C. A., 1947, Limestone in California, San Diego
+ County; California Div. Mines Rept. 43, iip. 300-303.
+ ^ 
+:Maun, J. F. Jr., 1955. Geology of a portion of the
+ Elsinore fa\dt zone, California; California Div. Mines
+ Special Rept. 43.
+ Jlerriam, Richard, 1940, Geology of the southwestern
+ part of the Ramona quadrangle: unpublished Ph.D.
+ di.ssertation. California Univ.. Dept. Geol. Sei., Berke
+ley.
+ Merriam. Richard. 1946. Igneous and metaniorphie
+ rocks of the southwestern part of the Ramona quad
+rangle. San Diego County, California: Geol. Soe. Amer
+ica Bull, vol. 57, pp. 223-260.
+ ilerriam, Richard, 1951, Groundwater in the bedrock
+ in western San Diego Countv, California; California
+ Div. Mines Bull. 159, pp. 117-128.
+ Merrill, F. J. II., 1916. San Diego Countv: California
+ Min. Bnr. Rept. 14, pp. 637-722.
+ Miller, F. S., 1937. Petrology of the San Marcos gab
+bro. southern California ; 
+Geol. Soc. America Bull., vol
+ 48, pp. 1397-1425.
+ Miller, F. S., 1938, Hornblendes and primary struc
+tures of the San Marcos gabbro : 
+Geol. Soc. America
+ Bull., vol. 49, pp. 1213-1231.
+ Xewman, M. A., 1923. Los Angeles field division. San
+ Diego County: California Min. Bur. Rept. 18. pp 49
+ 106, 223,
+ Parry, C. C, 1857, Reconnai.ssance to the mouth of the
+ Gila River from San Diego, California. Report of the
+ United States and Jlexicau Boundary Survey, vol. 1,
+ 34th Cong. 1st Sess., Ex. Doc. 135, pp. 125-130.
+ Preston, E. B., 1890, San Diego Countv: California
+ Min. Bur. Rept. 10. pp. 540-544.
+ Sauer. C. ().. 1929. Land forms on the Peninsular
+ Range of California as developed about Warner's Hot
+ Springs and Mesa Grande ; 
+California Univ. Pub. Geog.,
+ vol. 3, pp. 199-290.
+ Storms, W. H., 1893, San Diego Countv; California
+ Min. Bur. Kept. 10, pp. 376-393.
+ Tucker, W. B., 1921, Los Angeles field division, San
+ Diego Countv; California Min. Bur. Rept. 17, pp. 375
+383.
+ Tucker, W. B., 1924, Los Angeles field division, Sau
+ Diego County; California Min. Bur. Rept. 20, pp. 49-50.
+ Tucker. W. B., 1924a, Los Angeles field division, San
+ Diego County; California Min. Bur. Rept. 20. pp. 368
+374.
+ Tucker, AV. B., 1925, Los Angeles field division, San
+ Diego County: California Min. Bur. Rept. 21, pp. 325
+382.
+ Tucker. W. B., and Sampson. R. J., 1934, Current
+ mining activity in southern California, San Diego
+ County; California Div. Mines Rept. 30, pp. 326-327.
+ Tucker, W. B., and Reed, C. II., 1939, Mineral re
+sources of San Diego County ; 
+California Div. Mines
+ Rept. 35, pp. 8-55, pi. 1.
+ Tucker, W. B., and Sampson, R. J., 1940, Current
+ mining activity in southern California, San Diego
+ California Div. Mines Rept. 36, p. 12.
+ County :
+ (39)
+
+INDEX TO BULLETIN 177
+ Anipliilioliti'. 10
+ AiKUiliisiti', 1(1
+ Arkose, phiiti) slidwiiiK, l."i
+ I?allena. Lakeview Mountniii tonalitp near. 17
+ Haniu'r, iiamiii!; of, '2'2
+ BanniT Canyim. S, 10, 22; Klsinore fault zone in. 17; iilii>to .«lio\v
+inc. 1"; pliDtii .showing El.^inorc fault zone in, IS, 10
+ Banner Creek. 20
+ Banner mininf; distriet. 21
+ Batliolith. t'retaceons, '.). 
+12-14
+ Bedford Canyon forniatii>n, 11
+ Bonsall tonalite, 11, 12. 13, 14, 17, 20. 21
+ Borreso quadrangle. 18, 20
+ Buena Vista Creek, 10, 20; photo showing sediments on, 1.")
+ Carrista Creek, 10
+ Carrizo Creek, 10; photo showing, 17
+ Chariot Canyon, S, 0, 10, 19, 21 ; 
+gold in, 21 ; 
+photo showing .Tnlian
+ schist in, 10; jihoto showing mine in, 22, 23
+ Cleveland Xiitional Forest, S
+ Coleman Creek, gold mining on, 21
+ Copper. 2~<
+ Corona quadrangle. 0, 12
+ Cretaceous, rocks of the, 7, S, 0, 11, 20
+ Cuyamaca basic intrusive, 12
+ Cuyamaca gahl)ro, 12 ; 
+nickel associated with, 2")
+ Cuyamaca I'eak quadrangle, '7, 8.
+ Cuyamaca Peaks. 8
+ Cuyamaca quadrangle. 11
+ Cuyamaca Reservoir. 10
+ Cuyamaca State I'ark. 21
+ Cuyapaiiie quadrangle. 18
+ Dimension stone, 24 ; 
+see also JIarlile
+ Drainage, Santa Ysabel quadrangle, 8
+ Drainage patterns, Santa Ysal)el c|uadrangle, 19
+ Dye Canyon, 19
+ Eagle gold mine, 24
+ El Cajon quadrangle, 20
+ Elevada gidd mine, 22
+ Elsinore fault, 7, 12, 17-18, 19; photo showing, 17, 18, 19
+ Elsinore (luadrangle, 8, 11, 12
+ Fanglonierate, 14-l."i
+ Faults, 17-18, 19, 20
+ Fossil, in Chariot Canyon, 10
+ Friday Copper Mining Co., 2."
+ P^riday nickel mine. 2.">
+ (Jeorge Washington claim [gold], 21
+ (iold. 7. 21-24. 2.">
+ (Jold King gold mine. 22
+ (lold mines, alphalietical list of. 26-.'?7
+ (iiild Queen gold mine. 22
+ (iolden Chariot gold mine. 21. 22, 23, 24 ; 
+photo showing, 22
+ (Jranite Mountain, pegmatite on, 25
+ (iranite Mountain, photo showing, IS, 19
+ (irapevine Canyon, 21
+ (Jrapevine mining district, 21
+ (irapevine Star gold mine, 21
+ (Jraphite, 2.">
+ Creen Valley tonalite, 12-13, 14, 20: photo showing, 13
+ (jiroun<lwater, 7, 19-20
+ (iruss. surrounding houhlers of disintegration, 14
+ Helvetia gold mine, 22, 24
+ .Jointing, in mixed rocks, 11
+ .Inlian, 8, 0, 20
+ .Julian area. Cuyamaca gabbro in. 12
+ .Julian mining district. 21-24
+ .Julian Hidge, andalusite rocks on. 10; source of water, 20
+ .Julian schist, 9-11, 17, 21, 2."); gold associated with, 23: photo
+ showing, 9, 10, 
+U
+ .luiassic, rocks of the, 7, .*^
+ Kentuck gold mine, 24
+ Lake Henshaw, 8, 9, 19; Elsinore fault zone at, 17; photo show
+ing, 17; se<liments near, 14
+ I.akeview Mountain tonalite, 11, 12, 13-14, l.'i, 17. 20. 24 ; 
+photo
+ showing. i;'>
+ 19 :
+ ronndwater in, 20; San Felipe
+ San Felipe fault
+ Jje|)id(dite, 2.")
+ Lithia deposits. alphal)eti<'al list of, 37
+ Lithium minerals, 2."i
+ Map, showing geology of Santa Ysabel quadrangle, in pocket; show
+ing location of Santa Ysabel cinadrangle, 7 ; 
+showing mineral de
+posits of Santa Ysabel quadrangle, in pocket; showing structure,
+ Santa Ysabel ((uadrangle, 10
+ Marble, in ,Julian schist, 10; photo showing blocks of. 24; ciuarry
+ing for, 7, 21, 24-2.">
+ Marble deposits, alphabetical list of, 37
+ Matagual Valley, 19
+ Merrian, Itichard, 7
+ Mississippian, rocks of the, 11
+ Montezuma gold mine, 21
+ Montezuma mining district, 21
+ Montezuma Valley, IS; groundwater in, 20
+ Muscovite, enclo.sed in feldspar crystals, 9
+ Nickel, mining for, 7, 8, 2.j
+ Nickel deposits, alphabetical list of, 38
+ North Hubbard gold mine, 23
+ Oligocene, rocks of the, 20
+ Owens gold miu<', 23, 24
+ Palomar Mountains, photo showing, 17
+ Pauba formation, 14
+ Peninsular Ranges, tonalite in, 14
+ Peninsular Ranges batholith, 7
+ Perris ipiartz diorite, 14
+ Physiography, Santa Y'sabel (inadrangle, 18-10
+ Pine Hills, amphibolite in vicinity of, 10
+ Pleistocene, rocks of the, 7, 14-1.'5, 18, 10, 20; photo showing, 1.1
+ Precipitation, Santa Y'.sabel quadrangle, 8
+ Quartzite, in Julian schist,
+ Quaternary, rocks of the, 14-1.")
+ Ramona quadrangle, 7, 8, 14, 20
+ Ranchito gold mine, 22, 23 ; 
+photo showing, 10, 22
+ Ready Relief gold mine, 23: photo showing trace of workings on, 23
+ Recent deposits, 0, 19
+ Redman gold mine, 22, 24
+ Rice mining district, 21
+ Road metal, 2.j
+ Rodriguez Canyon, 19; photo showing Elsinore faidt zone in, 18,
+ photo showing mine in, 22
+ Roll structure in quartz, 23, 24
+ Roofing granules, 24
+ San Diego River, 8, 19
+ San Felipe Canyon, gold in, 21
+ San Felipe Creek. 8, 20
+ San Felipe fault, 7, 18, 20
+ San Felipe Valley, 8, 9, 18, 19
+ fault zone in, 18
+ San Jose Valley, 0, 18; groundwater in, 10-20
+ in, 18
+ San Luis Rey quadrangle, 9, 12, 14
+ San Luis Rey River, 8; photo showing path of, 17
+ San Marcos gabbro, 12; nickel associated with, 2."i
+ San Ysidro Creek, 19, 20
+ San Y'sidro Mountain, 20; marble outcrops on. 10
+ San Ysidro Mountains, 8, 20 ; 
+mining districts in, 21 ; 
+photo show
+ing marble quarry in, 24
+ Santa Ana Mountains, age of rocks in, 11
+ Santa Ysabel Creek, 8, 19
+ Santa Ysabel Indian Reservation, 19
+ Santa Ysabel Valley, 18; amphibolite in, 10; groundwater in, 20:
+ photo showing mixed rocks in, 11
+ Scheelite, 2.")
+ Schist, see Julian schist
+ Sillimanile, in Julian schist, 10
+ South Hubbard gold mine, 24
+ Spencer Valley, 19
+ Springs, marking fault zones, 17, 18
+ (41 )
+42
+ California Division of Mines
+ Stewart, Richard M., 21 ; 
+photos hy, 10. 13, 1-",, 17, IX, 10
+ Stone, for road metal, '2't, 
+3S
+ Stonewall formation, 11
+ Stonewall sold mine, 21
+ Stonewall Peak, t.vpe loealit.v for Stonewall quart diorite, 11
+ Stonewall quartz diorite, 11, 17, 21, 24, 2."i ; 
+pliolo showing, 11
+ Structure, influence on ph.vsioRraph.v, 18-10; Santa Ysahel (|uad
+ranyle, l.j-lS
+ Teniecula area, sediments in. 14
+ Temecula arkose, l.T
+ Tonalite, see Green Valley tonalite. Lakeview Jlouutain toiialite,
+ Hon.sall tonalite,, Val Verde tonalite
+ Topography, Santa Y.saliel tjuadrangle, 7-8
+ Tourmaline, gem-quality. 2.j
+ Triassic, rocks of the, 7, 10-11, 20
+ Tungsten. 2.'>
+ Bull. 177
+ I
+ Tungsten deposits, alphabetical list of, 38
+ Val Venle tonalite, 14
+ Van Wert claim [gold], 21
+ Vegetation, Santa Ysaliel quadrangle, 8
+ Verruga Marlile Company, 24
+ Verruga marlile cpiarry, photo showing, 24
+ V(dcan Mountain, 8, 17, 18, 10. 20; photo showing. 10
+ Warlock gold mine, 24
+ Warner Hanch, photo showing arkose fanglomerate on, 1."
+ Warner's Hot Springs, favilt origin of, 20
+ Weber, F. Ilaridd, 2.-.
+ Winchester, Mississippian rocks near, 11
+ Witch Creek, aniidiibolite in vicinity of, 10
+ Wollastouite. 2.1. 38
+ Wynola, gold mining in vicinity of, 21
+ printed ht California state printing office
+ A84797 10-58 2500
+
+"V
+ ^
+DIVISION OF MINES
+ OLAF P. JENKINS. CHIEF
+ STATE OF CALIFORNIA
+ DEPARTMENT OF NATURAL RESOURCES
+ BULLETIN 177, PLATE 1-A ^'^'"
+ ....
+ B S C
+ .
+ ;0 30'
+ 33=^15
+ LEGEND
+ Alluvium
+ Lake beds
+ Temecula arkose
+ Bonsall tonalite
+ Lakeview Mt. tonalite
+ Kg
+ Green Valley tonalite
+ San Marcos gabbro
+ Stonewall quartz diorite
+ Mixed rocks
+ (Quarts diorite and schist)
+.
+ Mixed rocks
+ (Quartz diorite and achist)
+ Julian schist
+ (<7
+ Marble
+ Contact
+ Dashed where approriTTiat*
+ Fault
+ Dashed where approximate,
+ dotted where concealed
+ Probable fault
+ Strike and dip of foliation
+ and bedding
+ MINE LOCATIONS
+ Au- Gold t<- Lithium m- Marble Ni-Nickel
+ W—Tungsten w—Wollastonite
+ NUMBERS REFER TO TABULATED LIST. MINE
+ LOCATIONS COMPILED AND FIELD CHECKED
+ BY DIVISION OF MINES 1957
+ R S E
+ Mapped by the A my Map Serv ce
+ Published for civil use by the Geological Survey
+ Conirol by USGS, USC4GS, Glover, and USCE
+ Topography from »rial pholographs by mull'plei melhods
+ Aerisl photographs laken 1939,
+ Polyconic ptoieclton. 1927 Norlh American datum
+ lO.OOO-lool gtia based on California coordinale system.
+ Dashed land lines indicate approximate locations
+ ECONOMIC MAP OF THE SANTA YSABEL QUADRANGLE
+ CALIFORNIA
+ liy Kichard M(*ri-inni
+ SCALE 1
+ 1
+ 62500
+ AOUH-t 2 M
+ o u s eo Geoogy mapped by Richard Mernam
+ 1938-39, 1950-51
+% DIVISrON OF MINES
+ '
+ OLAF P JENKINS. CHIEF
+ 116 4'
+STATE OF CALIFORNIA
+ DEPARTMENT OF NATURAL RESOURCES
+ BULLETIN 177. PLATE 1
+ LEGEND
+ Qal
+ Alluvium
+ Lake beds
+ Qi
+ T.'H
+ 1
+ Ill;, ,,,|.
+ Konsiiil timalitc
+ Lakeview Mt. tonalite
+ Green Valley tonalite
+ San Miircos i/al)ljro
+¥
+ V.
+ Mapped by the Army Mj;^i \a\Kxi
+ Published foi civil use by the Geological Survey
+ ConlfOl bt uses. USC4GS. Glovai. »ni USCE
+ "irt
+ ;rv~si
+ A
+ rv
+.
+ •^rf
+GEOLOGIC MAP OF THE SANTA YSABEL QUADRANCiLE
+ Topogophy from tmti phologrtohi by muttiplM mtthodi
+ A*ri(l prioiogfiphs Uktn 1939
+ Polyconic piojteHon 1937 North Amanun datum
+ lO.OO&lool iria b«Md on Calilornx eoordtnat* lyiUm.
+ ione6
+ OMhw) land llnai inoicaia approi'mila location*
+ No dltllnctlon li mada bttw««n ba<ns, <h.allin|i.
+ commarciat and Induttrlal butldlngi
+ CALIFORNIA
+ Ky Ki<rharcl Mcrrijini
+ SCALE 162500
+ *
+ I
+itkv.'-; *sf , 
+s &".
+ 6MV
+ Hi;
+ sMy'^'^mfy
+um
+ \"f
+ \2! '
+ fv,
+ '\.
+ M^
+ f
+ « f
+ xj
+ 5C
+ l^^
+ '^ ^., 
+"-^
+ MU

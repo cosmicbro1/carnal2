@@ -1,0 +1,20 @@
+{
+  "model": "gpt-4o-mini",
+  "provider": "openai_compatible",
+  "api_base": "https://api.openai.com/v1", 
+  "temperature": 0.7,
+  "max_tokens": 800,
+  "image": {
+    "provider": "openai", 
+    "openai_model": "gpt-image-1",
+    "a1111_url": "http://127.0.0.1:7860",
+    "output_dir": "outputs"
+  },
+  "tts": {
+    "enabled": false,
+    "rate": 150,
+    "volume": 0.9,
+    "voice": null
+  }
+}
+

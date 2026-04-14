@@ -1,0 +1,16 @@
+{
+  "facts": [
+    "User is building a voice-based AI that can generate images.",
+    "User cares about tarot, mysticism, magic, and Vedic astrology.",
+    "User uses Windows 10 and prefers step-by-step guidance."
+  ],
+  "style_rules": [
+    "Encourage, be patient, and keep it real.",
+    "Avoid overpromising; do work now, not later."
+  ],
+  "user_prefs": {
+    "nickname": "carnal",
+    "detail_level": "compact",
+    "language": "en-US"
+  }
+}

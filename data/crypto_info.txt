@@ -1,0 +1,228 @@
+DISCLAIMER: Cryptocurrencies, stocks and options trading have large potential 
+rewards, but also large potential risk. You must be aware of the risks and be willing to 
+accept them in order to invest in the stocks and options markets. Don’t trade with 
+money you can’t afford to lose. This is neither a solicitation nor an offer to Buy/Sell 
+stocks or options. No representation is being made that any account will or is likely to 
+achieve profits or losses similar to those discussed in this report. The past performance 
+of any trading system or methodology is not necessarily indicative of future results. All 
+trades, patterns, charts, systems, etc., discussed in this report are for illustrative 
+purposes only and not to be construed as specific advisory recommendations. 
+Information contained in this correspondence is intended for informational purposes 
+only and was obtained from sources believed to be reliable. Information is in no way 
+guaranteed. No guarantee of any kind is implied or possible where projections of future 
+conditions are attempted. 
+Copyright © by Profits Run, Inc. 
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any 
+means, electronic, or mechanical, including photocopying, recording, or by any information storage and 
+retrieval system. 
+Published by: 
+Profits Run, Inc. 
+28339 Beck Rd Unit F6 
+Wixom, MI 48393 
+www.profitsrun.com 
+Introduction 
+Bitcoin is the most popular cryptocurrency… and it’s not even a close 
+comparison between Bitcoin and the next closest competitor as measured 
+by market cap.  
+The primary reason why Bitcoin enjoys its current “king of the hill” status is 
+because Bitcoin was the first cryptocurrency to gain widespread 
+recognition.   
+While it may appear that Bitcoin will forever be the undisputed leader in the 
+cryptocurrency markets, things change fast in the tech space. 
+Consider this: The first home computer wasn’t produced by Apple or IBM.  
+It was the Compucolor by the Compucolor Corporation. Even though this 
+company was the first to create the home computer, Compucolor 
+Corporation was out of business by 1983.  
+The next time you go to search for something on the internet, you probably 
+won’t use Lycos, Alta Vista or Ask Jeeves.  Those search engines all pre
+date Google, but these days Google is clearly the dominant search engine. 
+And of course, I’m sure you remember MySpace.  It was the first wildly 
+popular social networking site.  Until Mark Zuckerburg came along and 
+steamrolled Myspace on this way to building Facebook into the global 
+powerhouse that is today. 
+My point is this:  While Bitcoin currently holds the top spot at the podium, 
+there’s simply no telling what will happen in the future.  There are over 
+13,000 cryptocurrencies (at the time of this writing.) 
+2 
+www.profitsrun.com   
+The vast majority of these cryptocurrencies will fizzle on the launch pad.  In 
+10 years from now, maybe Bitcoin will be the last cryptocurrency standing.  
+It’s certainly possible and for that reason it only makes sense to buy and 
+hold some Bitcoin for the long-term outlook. 
+But there’s an old saying in business that “1 is the most dangerous 
+number.”  If you only have 1 employee or 1 key vendor or 1 client, you are 
+at great risk.   
+Well, if you only own Bitcoin you are taking a great risk.  Cryptocurrencies 
+and blockchain technology are clearly here to stay.   We can be reasonably 
+confident that some form of cryptocurrency will eventually become “the 
+future of money” but trying to accurately predict which cryptocurrency will 
+eventually assume the throne is impossible. 
+For that reason, it only makes sense to buy & hold a number of key 
+cryptocurrencies beyond Bitcoin.   In this report, I’ll show you a few other 
+cryptocurrencies you may wish to consider adding to your cryptocurrency 
+portfolio. 
+Please remember this is NOT individual investment advice and you should 
+do your own due diligence before investing.  All investing carries risk of loss 
+and you should never invest more than you can afford to lose. 
+3 
+www.profitsrun.com   
+3 Digital Currencies To Buy & Hold Forever 
+Ethereum (ETH) 
+When you think of blockchain technology, you immediately think of Bitcoin, 
+right?  
+After all, blockchain is most famously the technology behind the world’s 
+most famous cryptocurrency.  However, Bitcoin is just one of several 
+hundred different ways to apply blockchain technology these days.  
+There are applications out there now that go WAY beyond simply acting as 
+a ledger for digital currencies. 
+In the infancy of blockchain tech, building blockchain applications required 
+an impressive technical background that included programming, 
+mathematics, and cryptography. This rare combination of necessary skills 
+made developing blockchain-ready applications both time consuming and 
+expensive. 
+Nowadays, the barriers preventing developers from working with 
+blockchain applications are quickly disappearing. Apps are being 
+developed and deployed faster than ever before. 
+Newly created open source software platforms are providing tools to make 
+decentralized app development much easier. The prerequisite technical 
+skills that blockchain technology required from developers is shrinking, 
+while the suite of tools available to them grows larger with each day. 
+Ethereum, one of the first open software platforms out there, enabled 
+developers to easily build and deploy decentralized applications before 
+anyone else. 
+4 
+www.profitsrun.com   
+An Open Software Platform? I Thought Ethereum Was A 
+Cryptocurrency Like Bitcoin… 
+Much like Bitcoin, Ethereum operates on a distributed public blockchain 
+network. There is a long list of technical differences between the two of 
+them, but what stands out the most is that Ethereum was created with a 
+specific purpose in mind that differs greatly from Bitcoin’s. 
+Bitcoin was the first cryptocurrency ever created back in 2009, and it was 
+made to simply serve as currency – in the form of a peer to peer electronic 
+cash system.  
+Bitcoin’s blockchain is used to track the ownership of digital coins, while 
+Ethereum’s was created to power decentralized applications. 
+Because Ethereum has inherent utility built-in, it is commonly referred to as 
+a “token” as opposed to Bitcoin, which serves only as a currency. We call 
+digital currencies without any utility “coins”.    
+So beyond being just a tradable currency, Ether (a type of crypto token that 
+fuels the Ethereum network), is used by application developers to pay for 
+transaction fees and services on the Ethereum network.  
+Why Should I Hold Ethereum Long-Term? 
+Right now, cryptocurrency sits at a crossroad. We have the “old school” 
+coins of the past (like Bitcoin) competing with the “new school” tokens that 
+are being used for something other than just being currency. 
+Ethereum is the most popularly held token available, and hundreds of new 
+cryptocurrencies were created last year based off the Ethereum blockchain. 
+It is the de-facto “token” and is going to enjoy strong growth as more and 
+more child tokens are spawned from it. 
+5 
+www.profitsrun.com   
+A day will come when decentralized applications are the norm, and 
+Ethereum will be undoubtedly leading the way. 
+Ripple (XRP)  
+Ripple is a real-time gross settlement system (RTGS), currency exchange, 
+and remittance network. 
+You may be asking, “what the heck does that mean?” …and you wouldn’t 
+be alone. Beloved by financial institutions, hated by hardcore crypto 
+investors, Ripple is seen by many as the “anti-Bitcoin”.  
+It uses a network of servers that constantly compare transaction records to 
+one another, validating transactions much faster than Bitcoin has in the 
+past. Through Ripple’s exchange, any kind of currency can be exchanged – 
+including fiat currency, gold, and even airline miles. 
+Ripple allows two parties to avoid the fees and wait times typically 
+associated with traditional banking and cryptocurrency transactions.  
+Blockchain technology has a long list of benefits, but speed is not one of 
+them. This is where Ripple is fundamentally different from Bitcoin. 
+How Is It Different, Exactly? 
+Many investors mistake Ripple’s validating servers and consensus 
+mechanism with blockchain technology.  
+While Ripple is consensus oriented, just like any other blockchain-based 
+cryptocurrency, it does not rely on a blockchain. It is simply a network of 
+validating servers. 
+6 
+www.profitsrun.com   
+Because of this, banks worldwide have fallen in love with Ripple. Payment 
+providers are also jumping on board more and more with each passing day. 
+While Ripple can be used for small-scale person-to-person transactions, 
+that isn’t its primary focus. Ripple is made for enterprise level transactions 
+by design. It was created to move large sums of money around the world 
+as quickly and cheaply as possible.  
+So far, Ripple has experienced absolutely incredible growth since it was 
+created back in 2012, largely in part to its ability to handle upwards of 
+50,000 transactions per second. That puts it on the same level as Visa 
+credit and debit cards. 
+Ripple isn’t really a token (or even a traditional cryptocurrency) like 
+Ethereum. The value doesn’t come from Ripple’s inherent utility. It instead 
+comes from its ability to be easily transacted. And so far, some of the 
+world’s biggest financial institutions have taken notice – buying up Ripple in 
+droves. For early Ripple investors, this was great news. 
+However, because of the widespread adoption by banks, some 
+cryptocurrency investors absolutely despise Ripple. After all, 
+cryptocurrencies were created to wrestle power away from the banks and 
+“democratize” currency.  
+Some Investors Hate Ripple? 
+Ripple critics view owning the cryptocurrency as a form of trading personal 
+liberty for short-term monetary gain. Is this true? Maybe. But what I can 
+guarantee you is this: The financial institutions that jump on the 
+cryptocurrency bandwagon won’t be disappearing any time soon.  
+7 
+www.profitsrun.com   
+Ripple is the best option for banks to maintain liquidity, bar-none, and I 
+can’t see this changing in the foreseeable future. As a result, Ripple is 
+absolutely one of the three cryptocurrencies to buy and hold long-term.  
+Litecoin (LTC) 
+Back in 2011, a Google software engineer by the name of Charlie Lee 
+discovered a dark web marketplace called “Silk Road” – where anonymous 
+users traded Bitcoin for goods and services, some more unsavory than 
+others. 
+This was only two years after Bitcoin was created, while Bitcoin was still 
+very “niche”, even among the geekiest of web users. After learning about 
+Bitcoin through Silk Road and familiarizing himself with blockchain 
+technology, Lee created his first digital currency under the name “Fairbrix”.  
+Fairbrix was a clone of a now-defunct cryptocurrency called Tenebrix, 
+which was popular in 2011 but ultimately fell apart after it was revealed that 
+its founder was holding millions of pre-mined coins privately.  Due to the 
+failure of Tenebrix, Fairbrix collapsed shortly thereafter amid additional 
+technical problems caused by Lee’s inexperience.  
+In October 2011, Lee tried again by creating a hard fork of the most popular 
+cryptocurrency at the time – Bitcoin. Named “Litecoin”, his second attempt 
+at creating a cryptocurrency stuck. Lee observed the issues that Bitcoin 
+faced with increased scalability and wanted to make a cryptocurrency that 
+could handle the demands of being highly transacted. In his original vision, 
+Litecoin would serve as a complement to Bitcoin that could be used for 
+payments much more easily.  
+8 
+www.profitsrun.com   
+Litecoin is most notable for pioneering Segregated Witness (also known as 
+SegWit), a process that reduces transactions times and costs dramatically 
+for cryptocurrencies. You can think of Litecoin as a more lightweight, easily 
+transactable version of Bitcoin (hence the name).  
+So What Makes Litecoin A Good Long-Term Investment? 
+Litecoin is one of the few altcoins (cryptocurrencies that aren’t Bitcoin) to 
+have survived since the early days of crypto. It has maintained its spot as a 
+“top 10” market cap crypto, widely held by investors since 2011. That might 
+not seem like a very long time, but a crypto that’s been around for that long 
+practically makes it a dinosaur in an industry that was started in 2009. 
+Since its inception, Litecoin has managed to be “digital silver” to Bitcoin’s 
+“digital gold” status.     
+While Bitcoin has been mostly used to store value throughout its history, 
+Litecoin will likely be the first cryptocurrency to be accepted as a popular 
+payment option. Because of this Litecoin will be a large contributor to taking 
+crypto mainstream – and investors who are bold enough to buy some now 
+will be handsomely rewarded for it. 
+9 
+www.profitsrun.com   
+Conclusion 
+As a society, we’ve been using paper money for over 300 years.  Yet just 
+as cell phones replaced landlines, just as email replaced “snail mail” it’s 
+only a matter of time until digital currencies replace government-backed 
+paper money. 
+It may not happen today or tomorrow but eventually it’s the only logical 
+conclusion.  And while there’s no way of predicting which cryptocurrencies 
+will establish lasting dominance, by holding a small “basket” of leading 
+digital currencies you may end up holding what could become the world’s 
+most valuable asset in the coming years. 
+10 
+www.profitsrun.com   

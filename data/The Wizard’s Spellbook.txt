@@ -1,0 +1,459 @@
+The Wizard’s Spellbook 
+ 
+A spell book isn’t just a dusty old tome with a bunch of squiggly lines and jibberish that a caster reads 
+and mumbles to be able to summon massive fireballs, bring forth demons, or move mountains.  No… 
+these books are filled with weird runes, riddles, bizarre and horrible phrases that lesser minds were not 
+meant to see or know.  If a mere mortal without any magical talent or training were to attempt to read 
+these passages they would be driven mad from the images and horrors that assault their mind.  Or 
+worse, their eyes catch fire and melt out of their sockets.   
+ 
+It should come as no surprise that a wizard’s spellbook is anything but mundane.  The wizard casts a 
+ritual when they obtain their spellbook, imbuing it with a sliver of their essence.  The book becomes a 
+living thing with a personality and features.   
+ 
+Go to the table that fits the wizard’s alignment and roll 1d5 to figure out the book’s cover, appearance, 
+personality, and quirks. 
+ 
+Special Ability- The wizard must succeed a Luck roll.  Success means the caster rolls 1d3 and gains that 
+special ability while the book is in their possession.   
+  
+The Wizard’s spellbook and Other Spellbooks- If a wizard finds another spellbook, roll on the table 
+below to figure out its personality.  The two spellbooks will interact with one another, often striking up 
+conversations, getting in fights, and becoming increasingly jealous of one another.   
+ 
+Lawful Alignment  
+Roll Book Cover Appearance Personality Quirks Special 
+1 Reflective 
+mirror type 
+material.   
+Angelic 
+looking 
+female, hair 
+moving gently 
+in a breeze. 
+Extremely vain.  
+Craves and 
+needs 
+compliments 
+about her 
+beauty. 
+Needs to see 
+reflection in 
+mirror once 
+per day or gets 
+grumpy. 
+1) conjure a handheld 
+mirror 1x/day for 1 turn; 
+2) +1 to persuasion rolls; 
+3) +1 spell damage 
+against demons 
+2 Yellowish 
+leather, slightly 
+warm to touch. 
+Golden sun, 
+flares arc off 
+of the orb. 
+Proud.  Believes 
+in truth and 
+hates lies. 
+Gives of a slight 
+glow in 
+complete 
+darkness.  
+Boasts about it. 
+1) lights up like torch 
+when held in hand; 2) Gi 
+ves +2 to Fort saves 
+resisting cold 
+(environment); 3) +1d3 
+damage to fire spells 
+3 Grey binding, 
+rough and 
+pitted. 
+An old and 
+stern looking 
+version of the 
+wizard’s 
+mother. 
+Cranky and 
+always frowns 
+and complains. 
+Constantly 
+corrects the 
+wizard and 
+chastises for 
+wrong-doings. 
+1) +1 Spellcasting rolls; 
+2) +1 Will saves; 3) +1 to 
+intimidation on children 
+4 Book is covered 
+in feathers. 
+Regal eagle 
+head. Proud 
+and piercing 
+gaze. 
+Judgmental and 
+stern.  Mistrusts 
+people and 
+never forgives 
+liars. 
+Screeches 
+when fish or 
+small wildlife is 
+near. 
+1) Can summon 1 fish 
+for food per day; 2) 
+1x/day- gain +30' range 
+to vision for 1 turn; 3) 
++1d3 spellcheck against 
+liars 
+5 Bound in 
+necrotic flesh 
+The horrific 
+visage of a 
+severed 
+zombie head 
+fills the pages. 
+Warns of the 
+horrors of 
+undeath and 
+wants the 
+wizard to kill 
+any undead 
+they come 
+across.   
+Hates undead 
+and moans and 
+wails when 
+they are near. 
+1) +1 to saves against 
+undead enemies; 2) 
++1d3 to spellchecks 
+against undead targets; 
+3) +1d3 to spell damage 
+against undead targets. 
+ 
+ 
+Neutral Alignment  
+Roll Book Cover Appearance Personality Quirks Special 
+1 Dull grey  A bored, 
+chubby man 
+with lanky 
+greasy hair. 
+Apathetic, 
+woeful, and 
+doubts the 
+wizard will ever 
+really succeed at 
+anything.   
+Giggles when 
+the wizard fails 
+at a task.  Sighs 
+deeply when 
+they succeed. 
+1) +2 to saves against 
+spells that change 
+emotions; 2) 1x/day- 
+gain +1 temporary Luck 
+point; 3) 1x/day- ignore 
+1d4 damage (as 
+reaction). 
+2 Vibrant red 
+felt 
+Young girl in a 
+country dress. 
+Peppy and 
+attempt to 
+shake you out of 
+your neutrality.   
+Constantly asks 
+questions, and 
+wants to be 
+held up so she 
+can see. 
+1) 1x/day- increase 
+Personality by +1d3; 2) 
+1x/day reroll one failed 
+skill or attack roll; 3) +1 
+to saves against sleep or 
+charm spells 
+3 Sickly green 
+leather 
+An ooze 
+undulates 
+across the 
+pages. 
+Believes that it 
+can tell the 
+future and has 
+experienced all 
+known realities.  
+Is almost never 
+right about 
+outcome. 
+When the 
+wizard is 
+injured the 
+book oozes 
+with slime. 
+1) Ignore 2 points of 
+damage against oozes; 
+2) +1d3 to spell damage 
+against oozes; 3) 1x/day- 
+Allow wizard to reroll 
+failed knowledge check 
+4 Dull brown fur 
+w/ tails 
+sticking out of 
+the pages 
+An 
+anthropomorp
+ hic ratman sits 
+on the pages, 
+twitching his 
+nose, looking 
+shifty.   
+Always wants to 
+cut a deal to get 
+out of trouble.   
+Reluctant to 
+help the wizard 
+for fear of 
+getting caught 
+and tortured.  
+Also afraid of 
+other rats. 
+1) 1x/day- +1d2 Luck for 
+1 turn; 2) +1 melee 
+damage to rodents; 3) 
++1 to spellcasting 
+against rodents 
+5 The cover is 
+made of rope 
+A man hanging 
+from a tree, 
+gently 
+swinging back 
+and forth. 
+The man’s voice 
+is hoarse and he 
+makes gargling 
+noises when he 
+talks. He feels 
+he is a coward 
+The book fears 
+that should the 
+wizard be 
+killed, it will 
+experience 
+final death, and 
+1) A; 2) A; 3) A 
+and constantly 
+fears death. 
+pleads with the 
+wizard to hide 
+when there is 
+danger. 
+ 
+ 
+Chaotic Alignment  
+Roll Book Cover Appearance Personality Quirks Special 
+1 Blood red 
+leather 
+Giant, 
+aggressive 
+looking 
+bloodshot 
+eye. 
+Aggressive and 
+demands 
+satisfaction for 
+wrong-doings 
+against the 
+wizard.   
+Constantly calls 
+the wizard 
+weak and 
+flawed.  
+Stroking the 
+binding calms it 
+down. 
+1) 1x/day- +1d3 to 
+melee attack roll; 2) 
+1x/day- gain +1d3 to all 
+spell damage for 1 turn; 
+3) +1 to Will saves 
+against spells that calm 
+emotions 
+2 Bound in 
+human flesh, 
+stitched 
+together 
+Man being 
+flayed alive by 
+hooks and 
+needles. 
+In constantly 
+pain, laments 
+his existence. 
+Screams in 
+agony when 
+the wizard is 
+injured.  
+Weeps quietly 
+when the 
+wizard tries to 
+sleep. 
+1) 1x/day- ignore 1d3 
+damage per attack for 
+2d4 rounds; 2) 1x/day- 
+cause target to suffer 
+1d3 to Will save for 1 
+round; 3) +1d3 to spell 
+casting against followers 
+of Drallic the Flayer 
+3 Covered in 
+white fur with 
+black spots 
+A gnoll’s face 
+covers the 
+pages.    
+Aggressive and 
+desires the 
+wizard to 
+venture out and 
+cause havoc.  
+Whispers about 
+rewards should 
+this be 
+accomplished.   
+The gnoll takes 
+delight in the 
+suffering of 
+others and lets 
+out a hideous 
+cackling laugh 
+when others 
+are injured. 
+1) 1x/day- gain ability to 
+track by scent for 1 turn; 
+2) 2x/day- +1d3 to spell 
+damage; 3) 1x/day- 
+make Luck roll- success, 
+Gnoll leads you to a 
+place and you find a 
+small valuable trinket 
+(worth up to 50 gp).   
+4 Brown leather 
+with two 
+demonic eyes 
+A woman 
+giving birth to 
+a demon, sits 
+on the pages 
+and screams 
+as it emerges.  
+As the day 
+progresses 
+she can be 
+seen cuddling 
+the baby, 
+feeding it, or 
+it crawling 
+around the 
+book.  This 
+The woman 
+nurtures the 
+wizard, as only a 
+mother could.  
+Consoling when 
+injured or 
+failure occurs, 
+and celebrating 
+victories. 
+She becomes 
+enraged and 
+screams at 
+those who 
+injure the 
+wizard, 
+promising 
+diabolical 
+retribution.   
+1) 1x/day- reroll one 
+failed roll; 2) 1x/day- 
+when a critical is scored, 
+gain +4 on the next roll 
+(not damage); 3) +1d3 to 
+spell casting against 
+angelic targets 
+repeats every 
+day.   
+5 
+Black leather 
+with claw 
+marks 
+A severed, 
+mummified 
+hand with 
+jagged, 
+broken nails 
+and an eye in 
+the palm. 
+The eye is 
+vindictive and 
+hungers for 
+knowledge 
+above all else.  It 
+desires to read 
+book and 
+constantly asks 
+the wizard to 
+read to it or to 
+prop it open in 
+front of a book 
+and turn the 
+pages. 
+The eye 
+believes it can 
+see the truths 
+in a person’s 
+soul.   
+1) The eye can see into a 
+person’s soul.  There is a 
+50% chance it is right 
+about a person.; 2) +1 to 
+Intelligence rolls; 3) 
+1x/day- ability to cast a 
+level 1 spell that the 
+caster doesn’t know 
+(including cleric spells).  
+Determine randomly 
+Patron Characteristics 
+When a wizard bonds to a patron (DCC, pg 148) their spellbook becomes contaminated with small traits 
+that match the patron.  Consult the list below for patrons and the effect. 
+Hubris Patrons  
+Charred Maiden (pg XX)-The book is hot to the touch and smoke wafts out of its pages. 
+Floating Island of Terror (pg XX)- Small metal tubes burst from the book and connect to the binding.  
+Small amounts of oil drip from the pages. 
+Spider Goddess (pg XX)- Spiders crawl all over the book and the pages are stuck together with think 
+spider webs. 
+Twisted One (pg XX)- Small bumps and growths appear on the book cover, the book’s pages gain a fleshy 
+texture. 
+DCC pages  
+Bobugbubilz (DCC, pg 322)- The book cover becomes bumpy like a toads flesh.  The pages are damp and 
+slimy to the touch.   
+Azi Dahaka (DCC, pg 330)-The book becomes pitted and aged looking.  Dust and sand fall from the book 
+when opened. 
+Sezrekan (DCC, pg 336)- The cover takes on a semi-ethereal feel, and the book releases a maniacal laugh 
+when opened.   
+The King of Elfland (DCC, pg 342)- The cover becomes covered in clumps of moss.  When the book is 
+opened small ethereal fairies flutter out and then disappear. 
+The Three Fates (DCC, pg 348)- Three glowing runes appear on the front cover of the book.  When it is 
+opened the book floats 2” above the casters hand and splits into three version.   
+Yddgrrl, the World Tree (DCC, pg 354)- The cover takes on a bark-like texture.  The pages become a 
+patchwork of leaves stitched together. 
+Obitu-Que (DCC, pg 355)- Five ruby eyes appear on the book cover.  The book is wreathed in spectral red 
+fire. 
+Ithha, Prince of Elemental Wind (DCC, pg 356)- The book hums with power in the hand of the caster.  
+The pages flitter, as if by a gentle wind, and opens to the page the caster was concentrating on.

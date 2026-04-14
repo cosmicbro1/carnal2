@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit: Carnal 2.0"
+git remote add origin https://github.com/YOUR_USERNAME/carnal2.git
+git push -u origin main

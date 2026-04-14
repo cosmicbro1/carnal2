@@ -1,0 +1,316 @@
+Introduction to Options -- 
+The Basics 
+Dec. 8th, 2015 
+Fidelity Brokerage Services, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917. © 2015 FMR LLC. All rights reserved.  
+744692.1.0 
+Disclosures 
+ Options trading entails significant risk and is not appropriate for all 
+investors. Prior to trading options, you must receive a copy of 
+Characteristics and Risks of Standardized Options, which is available 
+from Fidelity Investments, and be approved for options trading. 
+Supporting documentation for any claims, if applicable, will be 
+furnished upon request.    
+ Examples in this presentation do not include transaction costs 
+(commissions, margin interest, fees) or tax implications, but they 
+should be considered prior to entering into any transactions. 
+ Characteristics and Risks of Standardized Option 
+ The information in this presentation, including examples using actual 
+securities and price data, is strictly for illustrative and educational 
+purposes only and is not to be construed as an endorsement, 
+recommendation. 
+2 
+Goal of this webinar Series 
+The goal of this series is to introduce options to those who are option 
+novices.  We will primarily cover the fundamentals of options.  To do this, 
+we will cover topics such as; what are options, what kinds of options are 
+there, and key terms and concepts option traders need to be familiar with. 
+Topics that will be covered in Part I 
+ What are options? 
+ How are they quoted and where? 
+ What are Exercise and Assignment? 
+ What are In the money, At the money, and Out of the money? 
+ What is Intrinsic versus Extrinsic value? 
+3 
+What is an Option? 
+An option is simply a contractual agreement between two parties, 
+the buyer and the seller. 
+The contract stipulates: 
+• Expiration date (Usually the third Friday of the month) 
+• Strike price 
+• Underlying (can be stock, ETF, or index) that the contract will be based upon 
+• A standard option represents 100 shares of the underlying 
+• When the holder can exercise the option (convert to the underlying)  
+• Anytime before expiration (American style) 
+• Only at expiration (European Style) 
+4 
+Why do People Trade Options? 
+People trade options for many different reasons.  Since we are focusing on 
+options basics today, we will focus on the most common reasons. 
+1. Leverage: As stated on the last slide, one option contract controls 100 
+shares of the underlying’s stock 
+2. Capital outlay: You can purchase an option for significantly less than 
+purchasing the underlying stock outright. 
+What’s the tradeoff? 
+1. Time:  Options have a finite expiration date.  They are a “wasting” 
+asset.  They will either expire worthless or be turned into 
+long/short shares of the underlying. 
+2. Leverage:  Leverage goes both ways, it can hurt you as much as it 
+helps you.   We will show an example shortly. 
+5 
+Call or Put? 
+There are two types of options, Calls and Puts 
+ Call 
+• Call option is a contract that allows the option holder (buyer) to buy 100 
+shares (typically) at the strike price up to the defined expiration date.  Said to 
+be LONG the call. Bullish 
+• Call options obligate the seller (writer) to sell 100 shares (typically) of the 
+underlying at the strike price up to the defined expiration date.  Said to be 
+SHORT the call.  Bearish 
+ Put 
+• Put option is a contract that allows the option holder to sell 100 shares 
+(typically) at the strike price up to the defined expiration date.  Long the put. 
+Bearish 
+• Put options obligate the seller to buy 100 shares (typically) of the 
+underlying at the strike price up to the defined expiration date.  Short the put. 
+Bullish 
+6 
+Call or Put? 
+In the last example we said “typically,” why? 
+When we talk of options we generally talk of standardized options where one contract 
+represent 100 shares of the underlying.  But what happens when something like a 
+stock split occurs in the underlying, or a company takeover/merger? 
+Options can be adjusted in a number of ways to account for corporate events. These 
+are called Adjusted options. Lets look at what happens when there is a stock split. 
+You own 1 contract for XYZ stock with a strike price of $75.00, the company 
+announces a 3 for 2 stock split.  How is the option contract adjusted? 
+Old option contract 100 X $75 = $7500 
+New option contract  150 X $50 = $7500 
+The adjustment keeps the notional value the same, the number of shares and the strike price are 
+adjusted to maintain the notional value of the contract post split. Other adjustments may occur 
+from corporate actions. Terms can be found in the option chain or check with the Options Clearing 
+Corp to find out the new terms of an adjusted option. 
+7 
+Call Profit and Loss Graphs 
+Short Call (Seller) 
+Bearish 
+Long Call (Buyer) 
+Bullish 
+8 
+Put Profit and Loss Graphs 
+Short Put (Seller) 
+Bullish 
+Long Put (Buyer) 
+Bearish 
+9 
+Buyer or Seller? 
+With options, you can either be a buyer or seller 
+ Buyer 
+• Have a right to Exercise and buy or sell 100 shares of the underlying 
+• Also called a call/put holder (long the option) 
+ Seller 
+• Have obligation to buy/sell at Assignment  100 shares of the underlying 
+• Also called a call/put writer (short the option) 
+Many option novices are confused by the terms Buy to Open and Sell to Open versus 
+Buy to Close and Sell to Close.  Think of it this way, any time you are creating a new 
+position in your account, you are OPENING and you are either buying or selling the 
+option to Open that new position.  Anytime you are removing a position from your 
+account, you are CLOSING it out and either buying it back or selling it to Close the 
+position. 
+10 
+Anatomy of an Options Symbol 
+What does all that mean? -SPY is the symbol of the underlying 
+15 is the year of the expiration 
+12 is the month of the expiration 
+19 is the day of the expiration 
+C indicates that this is a Call option (as opposed 
+to a P for a Put option) 
+211 is the Strike Price 
+This means that a holder (buyer) of this call has the right to BUY 
+100 shares of SPY at $211 per share at any time until December 19, 
+2015 
+11 
+Bid, Ask, Volume? 
+Bid: The highest price that a buyer is willing 
+to pay for the option.  Similar to a Bid on 
+stock (options are typically quoted in $0.01 
+or $0.05 increments) 
+Ask: The lowest price that a seller is willing to 
+sell the option at.  Also, similar to an Ask 
+on a stock 
+Volume:  The total number of that particular 
+contract that has traded on that trading 
+day.  Once again, similar to stock 
+12 
+The Option Chain 
+Where can you find options quotes and information? 
+BID 
+ASK 
+Volume 
+Image above is from a customized Option 
+Chain in Active Trader Pro 
+13 
+The Option Chain 
+What is Open Interest? -Open Interest is the number of  ALL of those contracts in the world. It is 
+not static!  The number is updated daily based on the previous day’s 
+trading activity.  
+Open Interest 
+Image above is from a customized Option 
+Chain in Active Trader Pro 
+14 
+15 
+What is Premium? 
+Premium is the amount that you pay for the option contract, or the 
+proceeds that you receive from the sale of a contract. 
+Example: You buy the AAPL December 2015 120 Call shown below.  The premium 
+you would pay is $4.45 (the A next to the price stands for ASK, which is the price 
+someone is willing to sell the contract for) 
+Remember!  The option contract 
+represents 100 shares, so you would 
+actually pay $4.45 X 100 or $445.00 
+If you were the seller of the call in 
+this example, you would have 
+received the premium of $445.00 
+Apple trading at $121.35 at the time 
+16 
+What is Breakeven? 
+Breakeven is the price the underlying needs to be trading at expiration 
+for your trade to “breakeven”  that is, to not gain or lose any money. 
+Example: You buy the AAPL December 2015 120 Call shown below.  The premium 
+you pay is $4.45.  Your breakeven on this trade would be $124.45.  Why? 
+Because you have the right to buy AAPL at $120, but you paid $4.45 for the right. 
+Strike price +/- the premium paid or 
+received = breakeven   
+120 + 4.45 = 124.45 
+Remember, most options are actually 
+closed out prior to expiration! 
+Apple trading at $121.35 at the time 
+Exercise and Assignment  
+Long options get exercised, Short options get assigned. 
+What is Exercise? 
+ Exercising a call is when the option holder opts to buy the 
+underlying at the strike price (Typically 100 shares) 
+ Exercising a put is when the option holder opts to sell the 
+underlying at the strike price (Typically 100 shares) 
+ If the option has intrinsic value of at least $0.01 at expiration, 
+it will be automatically exercised.   
+ If your account cannot support the position that will be 
+created by auto exercise, you should close the option position! 
+17 
+Exercise and Assignment 
+What is Assignment? 
+ Assignment of a call is the option writer fulfilling their 
+obligation to sell the shares at the strike price. (Typically 100 
+shares). A short option can be assigned at any time! 
+ Assignment of a put is the option writer fulfilling their 
+obligation to buy the shares at the strike price(Typically 100 
+shares).  
+ As an option seller, you do not choose if/when assignment will 
+occur.  The option buyer controls this, assignment happens 
+when they choose to exercise their option. 
+ Remember!  A short (sold) option can be assigned at any 
+time!  Even if it has no intrinsic value. 
+18 
+Exercise and Assignment Value Examples 
+If we use the previous AAPL example what would Exercise of a call look like? 
+If you exercised your long AAPL call, you would purchase 100 shares of AAPL at 120.  100 X $120 
+= $12,000 
+Remember, many people use options for leverage, if you had 10 of those contracts and exercised 
+them, it would be 10 X 100 X $120 = $120,000! 
+Each contract controls 100 shares of stock.  If you only want to buy 100 shares of the underlying, 
+only buy 1 call contract. 
+If we use the same example, what would Assignment look like? 
+If you were assigned on the one call, you would need to deliver 100 shares of AAPL and you 
+would receive $120 per share, 100 X $120 = $12,000.  But what if you didn’t already own the 
+shares?  You would have to go into the market and buy them at whatever price they were 
+trading it, which would likely be higher than $120 per share!   
+Example, what if AAPL was now trading at $130?  
+It would now be 100 X $130 = $13,000 
+19 
+Exercise and Assignment Value Examples 
+This time lets substitute an AAPL 120 put for the call.  Now what would Exercise of the 
+put look like?   
+If you exercised your long AAPL put, you would sell 100 shares of AAPL at 120.  You would 
+receive proceeds of 100 X $120 = $12,000 
+If we use the same example, what would Assignment look like? 
+If you were assigned on the one put, you would need to buy 100 shares of AAPL and you would 
+pay $120 per share, 100 X $120 = $12,000.    
+Once again remember leverage, if you sold 10 of the puts it would be 10 X 100 X $120 = 
+$120,000  you would be paying for 1000 shares of AAPL stock! 
+20 
+Exercise and Assignment Value Examples 
+The previous examples were based on options with Stock or ETF’s as their underlying.  
+Index options are slightly different. 
+Index options are “European” style, meaning they can only be exercised at expiration, as 
+opposed to “American” style which can be exercised at any time.  Additionally, because 
+index options are based on an index (which cannot be delivered) they are settled in 
+cash!   
+Let’s look at an example on .SPX (S&P 500 Index) 
+You are Long (Own) 1 SPX call expiring on 12/19 with a strike of 2080 
+If your one SPX call were exercised because SPX closed at 2081 on expiration, you would 
+receive $100 CASH into your account.    
+Your option has $1 of intrinsic value X the multiplier for SPX which is $100 = $100 
+21 
+What is ITM, ATM and OTM? 
+1. ITM stands for In the Money 
+• In the money options are those options that have intrinsic value. 
+• Calls with strikes below where the underlying is currently trading 
+• Puts with strikes above where the underlying is currently trading 
+2. ATM stands for At the Money 
+3. OTM stands for Out of the Money 
+• At the money options are options that have a strike price closest to where the 
+underlying is currently trading 
+• Out of the money options are those which have no intrinsic value. 
+• Calls with strikes above where the underlying is currently trading 
+• Puts with strikes below where the underlying is currently trading 
+What is intrinsic value? 
+22 
+23 
+There are 2 components to an option’s price – Intrinsic value and Time value 
+Intrinsic versus Time Value  
+= In the Money 
+= At the Money 
+= Out of the Money 
+24 
+There are 2 components to an option’s price – Intrinsic value and Time value 
+ Intrinsic value is the measure of the true value of the “right” the option represents – it 
+is the difference between the stock price and the strike price 
+ Time value is a measure of “uncertainty” – the potential that the option could hold 
+more intrinsic value in the future 
+ All else equal, the time value erodes as expiration nears – the uncertainty about the 
+stock’s price movements between now and expiration gets lower and lower 
+Intrinsic versus Time Value  
+Importance of Time Value 
+Image above is from a customized Option Chain in Active Trader Pro 
+ The Time Value of the calls and puts at each strike price is nearly equivalent 
+ A covered call and a cash secured put of the same strike price have almost identical risk 
+(max loss, breakeven) and reward (max gain) profiles 
+ The only difference to the trader is the probability that the trade will result in the 
+acquisition or sale of the underlying security 
+ At the money contracts have the most time value, but is not always the best choice 
+25 
+What factors affect the premium? 
+1. Money-ness of the option being sold (Strike Selection) 
+• Out of the money options offer lower premiums  
+• At the money option contracts have the most time value 
+• In the money options offer higher premiums 
+2. Time to expiration (Expiration Selection) 
+• Nearer term expirations offer the potential for the highest annualized return but 
+offer a lower up front premium 
+• Longer dated expirations decay at a slower rate, but offer the advantage of more 
+upfront premium (income certainty) 
+3. Expected Movement from the Underlying (Implied Volatility) 
+• Higher implied volatility (expected price movement) results in higher premiums 
+• When selling options, if that expected volatility becomes realized volatility, it can 
+result in substantial losses 
+26 
+Introduction to Options part 1 
+This concludes today’s presentation. 
+Thank you for attending.  
+Please join us for our upcoming webinars: 
+ December 17th, 12:00 pm EST  Introduction to Options Part 2 
+ December 18th, 12:00 pm EST  Introduction to Options Part  3 
+To Register, please visit the Fidelity.com Learning Center 
+https://www.fidelity.com/learning-center 
+For additional support, please contact a Fidelity representative  
+at (800) 564-0211 
+27 
