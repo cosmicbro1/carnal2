@@ -90,53 +90,70 @@ pip install -r requirements.txt
 
 4. **Choose your LLM:**
 
-#### **Option A: FREE - Use Ollama (Recommended for students!)**
+#### **Option A: FREE + OPEN SOURCE - Use Ollama (BEST FOR STUDENTS)** ⭐
 
-Completely free, runs locally on your computer.
+**Completely free, open source, runs locally. Zero API keys, zero cost, forever.**
 
-1. Download Ollama: https://ollama.ai
-2. Install and run it
-3. In terminal: `ollama pull mistral` (or `llama2`, `neural-chat`, etc.)
-4. Edit `settings.json`:
-```json
-{
-  "model": "mistral",
-  "temperature": 0.7,
-  "max_tokens": 800,
-  "openai_base_url": "http://localhost:11434/v1"
-}
-```
-
-Then skip to "Run the bot" below.
-
-#### **Option B: FREE + FAST - Use Gemma 4 (RECOMMENDED)** 🚀
-
-Google's latest LLM - **10x faster, 95% cheaper than OpenAI**, perfect for productivity!
-
-1. Get free API key: https://ai.google.dev/gemini-api (no credit card)
-2. Create `.env` file:
-```
-GOOGLE_API_KEY=your_key_here
-OPENAI_API_KEY=sk-...optional_fallback...
-```
-3. Install: `pip install google-generativeai`
+1. Download: https://ollama.ai
+2. Run: `ollama pull gemma2` (recommended) or `ollama pull mistral`
+3. Start: `ollama serve` (keep terminal open)
 4. Edit `settings.json`:
 ```json
 {
   "llm_provider": "auto",
-  "model": "gpt-4o-mini",
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "model": "gemma2"
+  },
   "temperature": 0.7,
   "max_tokens": 800
 }
 ```
 
-**Benefits:**
-- ⚡ 5-10x faster responses (200ms vs 2s)
-- 💰 95% cheaper ($0.18/month vs $3.60/month)
-- 🎯 Excellent for healing & coaching
-- 🔄 Auto-fallback to OpenAI if needed
+**Perfect for:**
+- 🆓 Students with no budget
+- 🔐 Privacy-first (local only, no servers)
+- 🌐 Works offline
+- 📖 Open source & transparent
 
-📖 **Setup Guide:** See `GEMMA4_SETUP.md`
+📖 **Complete Setup Guide:** See `OPENSOURCE_STUDENT_SETUP.md`
+
+#### **Option B: FREE TIER - Use Google Gemma 4 API** 
+
+Free API key: https://ai.google.dev/gemini-api (no credit card, 60 req/min)
+
+1. Create `.env`: `GOOGLE_API_KEY=your_key_here`
+2. Install: `pip install google-generativeai`
+3. Edit `settings.json`:
+```json
+{
+  "llm_provider": "gemma"
+}
+```
+
+**Benefits:**
+- 🚀 10x faster than Ollama local
+- ⚡ 95% cheaper than OpenAI
+- 🆓 Free tier
+- 🔄 Cloud-based (faster)
+
+#### **Option C: PAID - Use OpenAI**
+
+Most expensive option, but most capable.
+
+1. Create `.env`: `OPENAI_API_KEY=sk-...`
+2. Edit `settings.json`:
+```json
+{
+  "llm_provider": "openai",
+  "model": "gpt-4o-mini"
+}
+```
+
+**Recommendation Priority:**
+1. **Ollama** (Free, open source, local) ← Best for students
+2. Google Gemma API (Free tier, fast)
+3. OpenAI (Paid, most capable)
 
 #### **Option C: PAID - Use OpenAI**
 

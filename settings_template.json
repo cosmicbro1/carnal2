@@ -4,7 +4,14 @@
   "max_tokens": 800,
   
   "llm_provider": "auto",
-  "llm_provider_notes": "Options: 'auto' (prefer Gemma if available), 'gemma' (Gemma 4 only), 'openai' (OpenAI only)",
+  "llm_provider_notes": "Priority: 'auto' tries Ollama first (free, local), then Gemma API, then OpenAI",
+  
+  "ollama": {
+    "enabled": true,
+    "base_url": "http://localhost:11434",
+    "model": "gemma2",
+    "notes": "FREE, LOCAL, OPEN SOURCE - Recommended for students. Download from https://ollama.ai"
+  },
   
   "gemma_config": {
     "enabled": true,
@@ -13,7 +20,7 @@
     "max_output_tokens": 800,
     "top_p": 0.95,
     "top_k": 40,
-    "notes": "Fastest & cheapest option. 10-100x faster than GPT-4o. Free tier available."
+    "notes": "Free API tier (60 req/min). Get key at https://ai.google.dev/gemini-api. Fallback if Ollama unavailable."
   },
   
   "openai_config": {
@@ -39,8 +46,8 @@
   },
   
   "performance": {
-    "gemma_preferred": true,
-    "fallback_to_openai": true,
+    "ollama_preferred": true,
+    "fallback_chain": ["ollama", "gemma", "openai"],
     "log_provider_usage": true,
     "cache_responses": false,
     "stream_responses": false
@@ -66,8 +73,9 @@
   },
   
   "environment": {
-    "notes": "Set these in .env file",
-    "required_keys": ["OPENAI_API_KEY", "GOOGLE_API_KEY"],
-    "optional_keys": ["OPENAI_BASE_URL", "ANTHROPIC_API_KEY"]
+    "notes": "Set API keys in .env file if using cloud APIs",
+    "required_keys": [],
+    "optional_keys": ["OPENAI_API_KEY", "GOOGLE_API_KEY"],
+    "ollama_note": "No API key needed for Ollama - runs locally and free!"
   }
 }
