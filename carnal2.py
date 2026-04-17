@@ -38,7 +38,68 @@ try:
 except ImportError:
     HD_AVAILABLE = False
 
+# Splash screen support
+try:
+    from PIL import Image
+    import tkinter as tk
+    SPLASH_AVAILABLE = True
+except ImportError:
+    SPLASH_AVAILABLE = False
+
 ROOT = pathlib.Path(__file__).parent
+
+# ---------- Splash Screen ----------
+def show_splash_screen(duration_ms: int = 2500) -> None:
+    """Display splash screen with carnal2.0_start.png image."""
+    if not SPLASH_AVAILABLE:
+        return
+    
+    # Check multiple locations for splash image
+    possible_paths = [
+        ROOT / "carnal2.0_start.png",
+        pathlib.Path.home() / "Desktop" / "carnal2.0_start.png",
+    ]
+    
+    splash_path = None
+    for path in possible_paths:
+        if path.exists():
+            splash_path = path
+            break
+    
+    if not splash_path:
+        return
+    
+    try:
+        # Create splash window
+        splash = tk.Tk()
+        splash.withdraw()  # Hide window initially
+        
+        # Load image for sizing
+        img = Image.open(splash_path)
+        img_width, img_height = img.size
+        
+        # Create label with image
+        photo = tk.PhotoImage(file=str(splash_path))
+        label = tk.Label(splash, image=photo, bg="white")
+        label.image = photo
+        label.pack()
+        
+        # Position window in center of screen
+        splash.update_idletasks()
+        splash.deiconify()
+        x = (splash.winfo_screenwidth() // 2) - (img_width // 2)
+        y = (splash.winfo_screenheight() // 2) - (img_height // 2)
+        splash.geometry(f"{img_width}x{img_height}+{x}+{y}")
+        
+        # Remove window decorations
+        splash.overrideredirect(True)
+        
+        # Display for duration
+        splash.after(duration_ms, splash.destroy)
+        splash.mainloop()
+    except Exception as e:
+        print(f"Note: Could not display splash screen: {e}")
+
 
 # ---------- Helpers ----------
 def read_text(path: pathlib.Path) -> str:
@@ -2804,6 +2865,10 @@ If you're in crisis, call 988 (US) or use :resources now.
 # ---------- Main ----------
 def main():
     global SYSTEM_PROMPT
+    
+    # Show splash screen on startup
+    show_splash_screen(duration_ms=2500)
+    
     print("\n" + "="*70)
     print("╔════════════════════════════════════════════════════════════════╗")
     print("║                    CARNAL 2.0                                  ║")
