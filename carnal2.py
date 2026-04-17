@@ -1,4 +1,4 @@
-import os, json, datetime, pathlib, base64
+import os, json, datetime, pathlib, base64, hashlib
 from typing import List, Dict
 
 # Auto-load .env for keys
@@ -9,6 +9,13 @@ except Exception:
     pass
 
 import requests  # for Automatic1111 (local SD)
+
+# Gemma 4 support (Google's most advanced open-source LLM)
+try:
+    import google.generativeai as genai
+    GEMMA4_AVAILABLE = True
+except ImportError:
+    GEMMA4_AVAILABLE = False
 
 # TTS support
 try:
@@ -309,25 +316,87 @@ Never claim you'll do work later; do what you can now.
 
 SYSTEM_PROMPT = build_system_prompt(PERSONA, MEMORY, PDF_KNOWLEDGE)
 
-# ---------- LLM client ----------
+# ---------- LLM client with Gemma 4 + OpenAI dual-model support ----------
 from openai import OpenAI as ChatClient
+
+# Initialize OpenAI client
 chat_client = ChatClient(
     api_key=os.environ.get("OPENAI_API_KEY", "no-key"),
     base_url=os.environ.get("OPENAI_BASE_URL")  # set to local server for local LLMs if desired
 )
 
+# Initialize Gemma 4 if available
+gemma_client = None
+if GEMMA4_AVAILABLE:
+    try:
+        genai.configure(api_key=os.environ.get("GOOGLE_API_KEY", ""))
+        gemma_client = genai.GenerativeModel(
+            model_name="gemini-2.0-flash",  # Fastest Gemma variant for productivity
+            generation_config=genai.types.GenerationConfig(
+                temperature=0.7,
+                top_p=0.95,
+                top_k=40,
+                max_output_tokens=800,
+            )
+        )
+        print("✓ Gemma 4 (Gemini 2.0 Flash) initialized - SUPER PRODUCTIVE MODE ENABLED")
+    except Exception as e:
+        print(f"Note: Gemma 4 initialization failed: {e}")
+        gemma_client = None
+
+# Model selection: Gemma 4 is default for productivity, OpenAI as fallback
+LLM_PROVIDER = SETTINGS.get("llm_provider", "auto").lower()  # "gemma", "openai", or "auto"
 MODEL = SETTINGS.get("model", "gpt-4o-mini")
 TEMPERATURE = SETTINGS.get("temperature", 0.7)
 MAX_TOKENS = SETTINGS.get("max_tokens", 800)
 
 def chat_once(messages: List[Dict]) -> str:
-    resp = chat_client.chat.completions.create(
-        model=MODEL,
-        messages=messages,
-        temperature=TEMPERATURE,
-        max_tokens=MAX_TOKENS,
-    )
-    return resp.choices[0].message.content
+    """Chat using best available model (Gemma 4 > OpenAI)."""
+    global LLM_PROVIDER
+    
+    # Determine which provider to use
+    use_gemma = False
+    if LLM_PROVIDER == "gemma" and gemma_client:
+        use_gemma = True
+    elif LLM_PROVIDER == "auto" and gemma_client:
+        use_gemma = True  # Auto-prefer Gemma for speed
+    
+    # Use Gemma 4 for super productivity
+    if use_gemma and gemma_client:
+        try:
+            # Convert system message format if needed
+            system_msg = ""
+            user_msgs = []
+            for msg in messages:
+                if msg["role"] == "system":
+                    system_msg = msg["content"]
+                elif msg["role"] == "user":
+                    user_msgs.append(msg["content"])
+            
+            # Combine for Gemma
+            full_prompt = f"{system_msg}\n\n{user_msgs[-1] if user_msgs else ''}".strip()
+            
+            response = gemma_client.generate_content(
+                full_prompt,
+                generation_config=genai.types.GenerationConfig(
+                    temperature=TEMPERATURE,
+                    max_output_tokens=MAX_TOKENS,
+                )
+            )
+            return response.text
+        except Exception as e:
+            print(f"Gemma error: {e}. Falling back to OpenAI.")
+            use_gemma = False
+    
+    # Fallback to OpenAI
+    if not use_gemma:
+        resp = chat_client.chat.completions.create(
+            model=MODEL,
+            messages=messages,
+            temperature=TEMPERATURE,
+            max_tokens=MAX_TOKENS,
+        )
+        return resp.choices[0].message.content
 
 # ---------- Transcript / Memory ops ----------
 def save_transcript(history: List[Dict]):

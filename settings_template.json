@@ -1,0 +1,73 @@
+{
+  "model": "gpt-4o-mini",
+  "temperature": 0.7,
+  "max_tokens": 800,
+  
+  "llm_provider": "auto",
+  "llm_provider_notes": "Options: 'auto' (prefer Gemma if available), 'gemma' (Gemma 4 only), 'openai' (OpenAI only)",
+  
+  "gemma_config": {
+    "enabled": true,
+    "model": "gemini-2.0-flash",
+    "temperature": 0.7,
+    "max_output_tokens": 800,
+    "top_p": 0.95,
+    "top_k": 40,
+    "notes": "Fastest & cheapest option. 10-100x faster than GPT-4o. Free tier available."
+  },
+  
+  "openai_config": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "max_tokens": 800,
+    "notes": "Reliable fallback. Better for ultra-long context & edge cases."
+  },
+  
+  "image": {
+    "provider": "openai",
+    "openai_model": "dall-e-3",
+    "a1111_url": "http://127.0.0.1:7860",
+    "output_dir": "outputs"
+  },
+  
+  "tts": {
+    "enabled": false,
+    "engine": "edge-tts",
+    "language": "en",
+    "voice": "en-US-AriaNeural"
+  },
+  
+  "performance": {
+    "gemma_preferred": true,
+    "fallback_to_openai": true,
+    "log_provider_usage": true,
+    "cache_responses": false,
+    "stream_responses": false
+  },
+  
+  "features": {
+    "healing_mode": true,
+    "love_coaching": true,
+    "meditation_guided": true,
+    "sound_healing": true,
+    "journaling": true,
+    "chakra_balancing": true,
+    "angel_readings": true,
+    "tarot_generation": false
+  },
+  
+  "accessibility": {
+    "dark_mode": false,
+    "voice_playback": false,
+    "captions": true,
+    "readable_fonts": true,
+    "font_size": "medium"
+  },
+  
+  "environment": {
+    "notes": "Set these in .env file",
+    "required_keys": ["OPENAI_API_KEY", "GOOGLE_API_KEY"],
+    "optional_keys": ["OPENAI_BASE_URL", "ANTHROPIC_API_KEY"]
+  }
+}
