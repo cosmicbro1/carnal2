@@ -1,6 +1,6 @@
 # CARNAL 2.0 - FLAWLESS ONE-CLICK LAUNCH GUIDE
 
-**For broke students who just want to click and heal** 💜
+**Because healing shouldn't cost a thing** 💜
 
 ---
 
@@ -194,7 +194,7 @@ See README.md for full details.
 
 ## Why This Works
 
-**For broke students:**
+**Because we believe in free healing:**
 - ✅ Zero cost (truly, forever)
 - ✅ One-click launch (no thinking)
 - ✅ Works offline (no internet after setup)
@@ -266,4 +266,4 @@ Just you, your AI healer, and whatever's in your heart.
 **Status:** Production ready  
 **Your right:** To heal without paying
 
-*For broke students like you.*
+*Because healing shouldn't cost a thing.*

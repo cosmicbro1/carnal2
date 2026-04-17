@@ -1,6 +1,6 @@
 # 🎯 CARNAL 2.0 - START HERE (5 MINUTES)
 
-**For students with zero budget and zero patience for complex setup** 💜
+**Because healing shouldn't cost a thing** 💜
 
 ---
 
@@ -128,7 +128,7 @@ We built Carnal 2.0 so that:
 ---
 
 **Version:** Student Edition v1.0  
-**For:** Broke students like you  
+**Because:** Healing shouldn't cost a thing  
 **Cost:** $0.00/year forever  
 **Status:** Production ready
 

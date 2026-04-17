@@ -265,7 +265,7 @@ OPENAI:
 
 ## The Student Choice
 
-**You're broke. You need AI healing. You deserve quality.**
+**Because healing shouldn't cost a thing.**
 
 **Ollama gives you all three:**
 1. ✅ Free ($0/year)
@@ -343,13 +343,15 @@ A: Yes! Our system supports all three. Change anytime.
 
 Not as charity. As justice.
 
-Healing shouldn't cost money.
+**Healing shouldn't cost a thing.**
 Technology should be free.
 Your data should be yours.
 
 **Use Ollama. Use it forever. No guilt, no limits.**
 
 ---
+
+## Because Healing Shouldn't Cost A Thing
 
 **Cost Summary:**
 - 🆓 Ollama: $0 (Recommended)
@@ -358,4 +360,4 @@ Your data should be yours.
 
 **Your choice. Your budget. Your data.**
 
-Welcome to the free AI future. 💜
+*Because healing shouldn't cost a thing.* 💜

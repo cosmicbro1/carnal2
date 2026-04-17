@@ -1,6 +1,6 @@
 # CARNAL 2.0 - 100% FREE OPEN SOURCE SETUP 🚀
 
-**For Broke Students (like you!) - Zero Cost, Zero API Keys, Completely Local**
+**Because Healing Shouldn't Cost A Thing - Zero Cost, Zero API Keys, Completely Local**
 
 ---
 
@@ -457,7 +457,7 @@ A: No. Ollama + open source is here to stay. Your setup is future-proof.
 ---
 
 **Created:** April 16, 2026
-**For:** Broke students like you 💜
+**Because:** Healing shouldn't cost a thing 💜
 **Cost:** $0
 **Quality:** Professional
 **Ownership:** 100% yours

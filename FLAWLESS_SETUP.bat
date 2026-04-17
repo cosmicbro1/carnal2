@@ -1,6 +1,7 @@
 @echo off
 REM ============================================================================
-REM CARNAL 2.0 - FLAWLESS ONE-CLICK SETUP FOR BROKE STUDENTS
+REM CARNAL 2.0 - FLAWLESS ONE-CLICK SETUP
+REM Because healing shouldn't cost a thing
 REM ============================================================================
 REM This script handles everything needed to get Carnal 2.0 running:
 REM - Checks if Ollama is installed (and guides installation if not)
@@ -18,7 +19,7 @@ title CARNAL 2.0 - FLAWLESS SETUP (STUDENT EDITION)
 echo.
 echo ============================================================================
 echo  CARNAL 2.0 - FLAWLESS ONE-CLICK SETUP
-echo  For broke students (like you!) - Zero cost, infinite healing
+echo  Because healing shouldn't cost a thing
 echo ============================================================================
 echo.
 
@@ -58,7 +59,7 @@ if errorlevel 1 (
     echo 2. Run the installer and follow the prompts
     echo 3. After installation, run this setup script again
     echo.
-    echo Why Ollama? It's FREE, LOCAL, and OPEN SOURCE - perfect for broke students!
+    echo Why Ollama? It's FREE, LOCAL, and OPEN SOURCE - because healing shouldn't cost a thing!
     echo.
     pause
     exit /b 1
@@ -160,8 +161,8 @@ echo.
 echo Terminal 2: python carnal2.py
 echo   (This starts Carnal 2.0)
 echo.
-echo WHY THIS WORKS FOR BROKE STUDENTS:
-echo ===================================
+echo WHY THIS WORKS:
+echo ===============
 echo - Ollama: FREE (runs on your computer)
 echo - Gemma 2: FREE (open source AI model)
 echo - Python: FREE (programming language)

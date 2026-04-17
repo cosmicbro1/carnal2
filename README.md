@@ -299,4 +299,4 @@ This is a fan project. Not affiliated with OpenAI or any other company.
 
 ---
 
-**Made with ❤️ for broke students everywhere** 📚
+**Made with ❤️ because healing shouldn't cost a thing** 📚
