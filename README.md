@@ -1,17 +1,44 @@
-# Carnal 2.0 - Open Source AI Chat Companion
+# Carnal 2.0 - Cosmic Healing Companion
 
-A free, open-source AI chatbot with voice input/output, image generation, tarot readings, and mobile access.
+## Our Promise
 
-## Features
+**Carnal 2.0 is a comprehensive digital healing and connection platform that combines AI guidance, sound healing, meditation, journaling, and personalized coaching to help people cultivate self-love, emotional healing, and conscious relationships.**
 
-✨ **Chat** - Talk to your AI buddy in real-time  
-🎙️ **Voice Input** - Speak instead of type (works on iPhone)  
-📢 **Voice Output** - AI responds with text-to-speech  
-🖼️ **Image Generation** - Generate images from prompts (OpenAI or Stable Diffusion)  
-🔮 **Tarot Cards** - Generate mystical tarot artwork  
-📱 **Mobile Access** - Chat from your iPhone on home WiFi  
-💾 **Memory** - AI learns facts about you  
-🆓 **100% Free** - No subscriptions, no paywalls  
+We believe healing is a journey, not a destination. Carnal 2.0 provides daily tools, cosmic guidance, and accountability to support your transformation with compassion, privacy, and trust.
+
+---
+
+## ✨ Core Features
+
+### **1. Healing Modalities**
+🕉️ Reiki Energy Sessions | 🧘 Guided Meditation | 👼 Angel Guidance | 🔷 Chakra Balancing | 🔊 Sound Healing
+
+### **2. Personalized Healing Plans**
+📋 7-Day & 21-Day Transformation Programs | Daily sequenced healing activities | Progress tracking & milestones
+
+### **3. Sound & Frequencies**
+🎵 30+ Healing Music Tracks | 5 Solfeggio Frequency Sets | Binaural Beats | Sacred Sound Mixer (create custom mixes)
+
+### **4. Guided Journaling**
+📔 6 Journal Types with AI Reflection | Mood & Energy Tracking | Gratitude Practices | Shadow Work & Inner Child Healing
+
+### **5. Relationship Support**
+💕 Love Coaching | Healthy Communication Training | Cosmic Match (compatibility analysis) | 6 Specialized Healing Flows
+
+### **6. Cosmic Features**
+🔮 Daily Healing Oracle | 🌙 Moon Ritual Guidance | 💬 Voice Notes to Future Self | 💝 Love Ripple Challenge (daily kindness)
+
+### **7. User Personalization**
+👤 Healing Profile (goals, preferences, spiritual interests) | Customizable Modalities | Music Preferences | Notification Timing
+
+### **8. Gamification & Progress**
+🏆 7 Achievement Badges | Daily Streaks | Leaderboards Coming | Non-aggressive, compassion-focused rewards
+
+### **9. Accessibility**
+🌙 Dark Mode | 🔊 Voice Playback | 📝 Captions | 🔤 Adjustable Fonts | ♿ Screen Reader Compatible
+
+### **10. Trust & Safety**
+🛡️ Clear Safety Disclaimers | Crisis Support Resources (988, Crisis Text Line, NAMI) | Privacy-First Journaling | Community Guidelines  
 
 ## Quick Start
 

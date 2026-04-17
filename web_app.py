@@ -11,6 +11,13 @@ from carnal2 import (
 if AGENTS_AVAILABLE:
     from agents import toolkit, execute_agent_action
 
+# Human Design
+try:
+    from human_design import generate_hd_chart, match_compatibility
+    HD_AVAILABLE = True
+except ImportError:
+    HD_AVAILABLE = False
+
 app = Flask(__name__, template_folder=".", static_folder=".")
 
 # In-memory chat history per session
@@ -148,6 +155,41 @@ def agent_logs():
         return jsonify({"error": "Agents not available"}), 400
     
     return jsonify({"logs": toolkit.get_logs()})
+
+
+@app.route("/api/human-design/chart", methods=["POST"])
+def hd_chart():
+    """Generate a Human Design chart."""
+    if not HD_AVAILABLE:
+        return jsonify({"error": "Human Design not available"}), 400
+    
+    data = request.json
+    birth_date = data.get("birth_date", "").strip()
+    birth_time = data.get("birth_time", "").strip()
+    name = data.get("name", "User").strip()
+    
+    if not birth_date or not birth_time:
+        return jsonify({"error": "birth_date and birth_time required (YYYY-MM-DD, HH:MM)"}), 400
+    
+    result = generate_hd_chart(birth_date, birth_time, name)
+    return jsonify(result)
+
+
+@app.route("/api/human-design/match", methods=["POST"])
+def hd_match():
+    """Match two Human Design charts."""
+    if not HD_AVAILABLE:
+        return jsonify({"error": "Human Design not available"}), 400
+    
+    data = request.json
+    chart1 = data.get("chart1")
+    chart2 = data.get("chart2")
+    
+    if not chart1 or not chart2:
+        return jsonify({"error": "chart1 and chart2 required"}), 400
+    
+    result = match_compatibility(chart1, chart2)
+    return jsonify(result)
 
 
 if __name__ == "__main__":
