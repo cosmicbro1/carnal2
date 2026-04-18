@@ -24,6 +24,13 @@ try:
 except ImportError:
     AGENTS_AVAILABLE = False
 
+# Human Design system
+try:
+    from human_design import generate_hd_chart, match_compatibility
+    HD_AVAILABLE = True
+except ImportError:
+    HD_AVAILABLE = False
+
 ROOT = pathlib.Path(__file__).parent
 
 # ---------- Helpers ----------
@@ -256,9 +263,12 @@ SYSTEM_PROMPT = build_system_prompt(PERSONA, MEMORY, PDF_KNOWLEDGE)
 
 # ---------- LLM client ----------
 from openai import OpenAI as ChatClient
+_api_key  = os.environ.get("OPENAI_API_KEY") or SETTINGS.get("api_key", "no-key")
+_base_url = os.environ.get("OPENAI_BASE_URL") or SETTINGS.get("api_base") or SETTINGS.get("openai_base_url")
 chat_client = ChatClient(
-    api_key=os.environ.get("OPENAI_API_KEY", "no-key"),
-    base_url=os.environ.get("OPENAI_BASE_URL")  # set to local server for local LLMs if desired
+    api_key=_api_key,
+    base_url=_base_url,
+    timeout=30.0,  # prevent hanging forever on bad/missing connection
 )
 
 MODEL = SETTINGS.get("model", "gpt-4o-mini")
@@ -292,7 +302,7 @@ def append_memory_fact(fact: str):
 # ---------- Main ----------
 def main():
     global SYSTEM_PROMPT
-    print("Carnal 2.0 — ready. Commands: ':quit', ':showmem', ':remember <fact>', ':img <prompt>', ':card <name> [style]', ':voice <text>', ':tts on/off'")
+    print("Carnal 2.0 — ready. Commands: ':quit', ':showmem', ':remember <fact>', ':img <prompt>', ':card <name> [style]', ':voice <text>', ':tts on/off', ':hd <date> <time> <name>', ':match <hd1> <hd2>'")
     history = [{"role": "system", "content": SYSTEM_PROMPT}]
     history.append({"role": "user", "content": "Greet me briefly and confirm you're Carnal 2.0."})
     try:
@@ -301,7 +311,9 @@ def main():
         if tts_engine:
             tts_engine.speak(greeting)
     except Exception as e:
-        print("Boot greeting failed, continuing.", e)
+        print(f"CAR2: (Boot greeting skipped — {type(e).__name__}: {e})")
+        print("CAR2: Ready. Type something to start chatting.\n")
+        history.pop()  # remove unanswered greeting from history
 
     while True:
         try:
@@ -390,6 +402,50 @@ def main():
                 SETTINGS["tts"]["enabled"] = False
                 write_json(ROOT / "settings.json", SETTINGS)
                 print("CAR2: TTS disabled.")
+            continue
+
+        if cmd.startswith(":hd "):
+            if not HD_AVAILABLE:
+                print("CAR2: Human Design not available. Make sure human_design.py is installed.")
+                continue
+            
+            rest = user[4:].strip()
+            parts = rest.split()
+            
+            if len(parts) < 3:
+                print("CAR2: Use like :hd 1990-05-15 14:30 Alice")
+                print("      Format: :hd YYYY-MM-DD HH:MM YourName")
+                continue
+            
+            birth_date = parts[0]
+            birth_time = parts[1]
+            name = " ".join(parts[2:])
+            
+            try:
+                result = generate_hd_chart(birth_date, birth_time, name)
+                if result.get("success"):
+                    chart = result["chart"]
+                    print(f"\n🔮 HUMAN DESIGN CHART - {name}")
+                    print(f"   Type: {chart['type']['name']}")
+                    print(f"   Profile: {chart['profile']['code']}")
+                    print(f"   Authority: {chart['authority']['type']}")
+                    print(f"   Strategy: {chart['type']['strategy']}")
+                    print(f"\n{chart['summary']}")
+                else:
+                    print(f"CAR2: {result.get('error', 'Unknown error')}")
+            except Exception as e:
+                print(f"CAR2: HD error: {e}")
+            continue
+
+        if cmd.startswith(":match "):
+            if not HD_AVAILABLE:
+                print("CAR2: Human Design not available.")
+                continue
+            
+            # Format: :match NAME1:DATE:TIME NAME2:DATE:TIME
+            rest = user[7:].strip()
+            print("CAR2: This command compares two HD charts. Format: :hd first, then :hd second to store.")
+            print("      Then I can compare them with your agent commands.")
             continue
 
         # normal chat
